@@ -4,6 +4,7 @@ class Nayyar::State
 	attributes = [
 		:pcode,
 		:iso,
+		:alpha3,
 		:name
 	]
 	attributes.each do |attr|

@@ -15,6 +15,25 @@ describe Nayyar do
 		end
 	end
 
+	describe ".state_with" do
+		subject { described_class.state_with(pcode: "MMR001") }
+		it { is_expected.to be_a Nayyar::State }
+		it "will return nil if state is not found" do
+			expect(described_class.state_with(pcode: "FOOBAR")).to be_nil
+		end
+		it "will raise ArgumentError if no argument is provided" do
+			expect{described_class.state_with}.to raise_error ArgumentError
+		end
+	end
+
+	describe ".state_with!" do
+		subject { described_class.state_with!(pcode: "MMR001") }
+		it { is_expected.to be_a Nayyar::State }
+		it "will raise error if the state isn't found" do
+			expect{ described_class.state_with!(pcode: "FOOBAR")}.to raise_error
+		end
+	end
+
 	describe ".state_with_pcode" do
 		subject { described_class.state_with_pcode("MMR001") }
 		it { is_expected.to be_a Nayyar::State }
@@ -26,7 +45,46 @@ describe Nayyar do
 		subject { described_class.state_with_pcode!("MMR001") }
 		it { is_expected.to be_a Nayyar::State }
 		it "will raise error if state is not found" do
-			expect {described_class.state_with_pcode!("FOOBAR")}.to raise_error Nayyar::InvalidPcodeError
+			expect {described_class.state_with_pcode!("FOOBAR")}.to raise_error Nayyar::StateNotFound
+		end
+	end
+
+	describe ".state_with_iso" do
+		subject { described_class.state_with_iso("MM-01") }
+		it { is_expected.to be_a Nayyar::State }
+		it "will return nil if state is not found" do
+			expect(described_class.state_with_iso("MM-00")).to be_nil
+		end
+	end
+	describe ".state_with_iso!" do
+		subject { described_class.state_with_iso!("MM-01") }
+		it { is_expected.to be_a Nayyar::State }
+		it "will raise error if state is not found" do
+			expect {described_class.state_with_iso!("MM-00")}.to raise_error Nayyar::StateNotFound
+		end
+	end
+
+	describe ".state_with_alpha3" do
+		subject { described_class.state_with_alpha3("YGN") }
+		it { is_expected.to be_a Nayyar::State }
+		it "will return nil if state is not found" do
+			expect(described_class.state_with_alpha3("ABC")).to be_nil
+		end
+	end
+	describe ".state_with_alpha3!" do
+		subject { described_class.state_with_alpha3!("YGN") }
+		it { is_expected.to be_a Nayyar::State }
+		it "will raise error if state is not found" do
+			expect {described_class.state_with_alpha3!("ABC")}.to raise_error Nayyar::StateNotFound
+		end
+	end
+
+
+	describe ".get_key" do
+		subject { described_class.get_key(iso: "") }
+		it { is_expected.to eq(:iso) }
+		it "will raise_error if key is not in whitelist" do
+			expect{ described_class.get_key(foo: "bar") }.to raise_error ArgumentError
 		end
 	end
 end

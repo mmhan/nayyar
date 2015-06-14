@@ -1,46 +1,61 @@
 ---
 - :iso: MM-11
   :pcode: MMR001
+  :alpha3: KCN
   :name: Kachin
 - :iso: MM-12
   :pcode: MMR002
+  :alpha3: KYH
   :name: Kayah
 - :iso: MM-13
   :pcode: MMR003
+  :alpha3: KYN
   :name: Kayin
 - :iso: MM-14
   :pcode: MMR004
+  :alpha3: CHN
   :name: Chin
 - :iso: MM-01
   :pcode: MMR005
+  :alpha3: SGG
   :name: Sagaing
 - :iso: MM-05
   :pcode: MMR006
+  :alpha3: TNI
   :name: Tanintharyi
 - :iso: MM-02
   :pcode: MMR111
+  :alpha3: BGO
   :name: Bago
 - :iso: MM-03
   :pcode: MMR009
+  :alpha3: MGY
   :name: Magway
 - :iso: MM-04
   :pcode: MMR010
+  :alpha3: MDY
   :name: Mandalay
 - :iso: MM-15
   :pcode: MMR011
+  :alpha3: MON
   :name: Mon
 - :iso: MM-16
   :pcode: MMR012
+  :alpha3: RKE
   :name: Rakhine
 - :iso: MM-06
   :pcode: MMR013
+  :alpha3: YGN
   :name: Yangon
 - :iso: MM-17
   :pcode: MMR222
+  :alpha3: SHN
   :name: Shan
 - :iso: MM-07
   :pcode: MMR017
+  :alpha3: AYY
   :name: Ayeyarwady
 - :iso: MM-18
   :pcode: MMR018
+  :alpha3: NPW
   :name: Nay Pyi Taw

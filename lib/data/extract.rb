@@ -6,8 +6,8 @@ states = []
 districts = []
 townships = []
 
-CSV.foreach("locations.csv") do |iso, s_pcode, state, d_pcode, district, t_pcode, township|
-	states << {iso: iso, pcode: s_pcode, name: state}
+CSV.foreach("locations.csv") do |iso, s_pcode, alpha3, state, d_pcode, district, t_pcode, township|
+	states << {iso: iso, pcode: s_pcode, alpha3: alpha3, name: state}
 	districts << {pcode: d_pcode, name: district, state: s_pcode} unless d_pcode.nil?
 	townships << {pcode: t_pcode, name: township, distrct: d_pcode} unless t_pcode.nil?
 end
