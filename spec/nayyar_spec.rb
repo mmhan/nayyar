@@ -22,6 +22,13 @@ describe Nayyar do
 			expect(described_class.state_with_pcode("FOOBAR")).to be_nil
 		end
 	end
+	describe ".state_with_pcode!" do
+		subject { described_class.state_with_pcode!("MMR001") }
+		it { is_expected.to be_a Nayyar::State }
+		it "will raise error if state is not found" do
+			expect {described_class.state_with_pcode!("FOOBAR")}.to raise_error Nayyar::InvalidPcodeError
+		end
+	end
 end
 
 describe Nayyar::State do
