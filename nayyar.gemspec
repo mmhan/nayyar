@@ -15,7 +15,7 @@ Gem::Specification.new do |spec|
 15 States are indexed by MIMU's pcode, ISO3166-2:MM and alpha3 codes used in plate numbers by transportation authority.
 74 Districts and 413 Townships are indexed by MIMU's pcode.
 
-The current version is `0.1.0` and it uses [Semantic Versioning](http://semver.org/)}
+Uses [Semantic Versioning](http://semver.org/)}
   spec.homepage      = "https://github.com/mmhan/nayyar"
   spec.license       = "MIT"
 
