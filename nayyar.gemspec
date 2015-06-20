@@ -9,15 +9,20 @@ Gem::Specification.new do |spec|
   spec.authors       = ["mmhan"]
   spec.email         = ["mmhan2u@gmail.com"]
 
-  spec.summary       = %q{A simple, easy to use gem to get a list of states/regions, districts, townships of Myanmar.}
-  spec.description   = %q{This gem contains PCodes of MIMU for all location entities and ISO3166-2:MM for all the states.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{Nayyar gives you access to State/Regions, Districts and Townships of Myanmar.}
+  spec.description   = %q{Nayyar is created with the intent of providing basic access to State/Regions, Districts or Townships of Myanmar, based on standards of Myanmar's country-wide census of 2014.
+
+15 States are indexed by MIMU's pcode, ISO3166-2:MM and alpha3 codes used in plate numbers by transportation authority.
+74 Districts and 413 Townships are indexed by MIMU's pcode.
+
+The current version is `0.1.0` and it uses [Semantic Versioning](http://semver.org/)}
+  spec.homepage      = "https://github.com/mmhan/nayyar"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
   # delete this section to allow pushing this gem to any host.
   if spec.respond_to?(:metadata)
-    spec.metadata['allowed_push_host'] = "TODO: Set to 'http://mygemserver.com'"
+    spec.metadata['allowed_push_host'] = "https://rubygems.org"
   else
     raise "RubyGems 2.0 or newer is required to protect against public gem pushes."
   end
@@ -30,4 +35,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "bundler", "~> 1.9"
   spec.add_development_dependency "rake", "~> 10.0"
   spec.add_development_dependency 'rspec', '>= 3'
+  spec.add_development_dependency 'pry', '>= 0.10'
 end
