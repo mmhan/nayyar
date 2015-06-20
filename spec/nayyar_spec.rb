@@ -24,13 +24,21 @@ describe Nayyar::State do
 		end
 
 		describe ".find_by" do
-			subject { described_class.find_by(pcode: "MMR001") }
-			it { is_expected.to be_a Nayyar::State }
+			it "returns state when it finds it" do
+				valid_queries.each do |index, query|
+					expect(described_class.find_by(index => query)).to be_a Nayyar::State
+				end
+			end
 			it "will return nil if state is not found" do
-				expect(described_class.find_by(pcode: "FOOBAR")).to be_nil
+				invalid_queries.each do |index, query|
+					expect(described_class.find_by(index => query)).to be_nil
+				end
 			end
 			it "will raise ArgumentError if no argument is provided" do
 				expect{described_class.find_by}.to raise_error ArgumentError
+			end
+			it "will raise ArgumentError if wrong argument is provided" do
+				expect{described_class.find_by(foo: :bar)}.to raise_error ArgumentError
 			end
 		end
 

@@ -12,16 +12,20 @@ class Nayyar::State
 		:alpha3,
 		:name
 	]
+
+	def initialize(data)
+		@data = data
+	end
+
+
+	# define getters
 	attributes.each do |attr|
 		define_method attr do
 			@data[attr]
 		end
 	end
 
-	def initialize(data)
-		@data = data
-	end
-
+	# allow the values to be retrieved as an array
 	def [](key)
 		@data[key]
 	end
@@ -60,37 +64,36 @@ class Nayyar::State
 	  protected
 	    def states
 	    	unless @@states
+					require "yaml"
 	    		data = YAML.load_file(File.join(File.dirname(__FILE__), '..', 'data', 'states.yml'))
+	    		indices = INDICES.inject({}) { |memo, index| memo.merge index => [] }
 	    		@@states = data.map do |state|
 	    			state = new(state)
-	    			@@pcode_index << state.pcode
-	          @@iso_index << state.iso
-	          @@alpha3_index << state.alpha3
+	    			INDICES.each do |index|
+	    				indices[index] << state.send(index)
+	    			end
 	    			state
+	    		end
+	    		INDICES.each do |index|
+	    			class_variable_set("@@#{index}_index", indices[index])
 	    		end
 	    	end
 	    	@@states
 	    end
 
-	    def pcode_index
-	    	states
-	    	@@pcode_index
+	    ## define private methods for internal use of indexed array
+	    INDICES.each do |index|
+		    define_method("#{index}_index") do
+		    	states
+		    	class_variable_get("@@#{index}_index")
+		    end
 	    end
 
-	    def iso_index
-	    	states
-	    	@@iso_index
-	    end
-
-	    def alpha3_index
-	    	states
-	    	@@alpha3_index
-	    end
-
+	    ## return the index for query given to find_by/find_by! method
 		  def get_key(data)
 		    keys = data.keys
-		    if keys.length != 1 || %w(pcode iso alpha3).none? { |key| key.to_sym == keys.first }
-		      raise ArgumentError.new("`find_by` accepts only one of pcode, iso or alpha3 as argument. None provided")
+		    if keys.length != 1 || INDICES.none? { |key| key.to_sym == keys.first.to_sym }
+		      raise ArgumentError.new("`find_by` accepts only one of #{INDICES.join(" or ")} as argument. None provided")
 		    end
 		    keys.first
 		  end
