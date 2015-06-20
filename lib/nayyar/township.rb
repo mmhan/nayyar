@@ -1,8 +1,8 @@
-class Nayyar::District
+class Nayyar::Township
 	attr_reader :data
 
-	@@districts = nil
-	@@state_index = {}
+	@@townships = nil
+	@@district_index = {}
 
 	@@attributes = [
 		:pcode,
@@ -24,37 +24,33 @@ class Nayyar::District
 	def [](key)
 		if @@attributes.include? key
 			@data[key]
-		elsif :state == key.to_sym
-			state
+		elsif :district == key.to_sym
+			district
 		end
 	end
 
-	def state
-		Nayyar::State.find_by_pcode(@data[:state])
-	end
-
-	def townships
-		Nayyar::Township.of_district(self)
+	def district
+		Nayyar::District.find_by_pcode(@data[:district])
 	end
 
 	class << self
 		INDICES = %w(pcode)
 
 		def all
-			self.districts
+			townships
 		end
 
-		def of_state(state)
-			state_pcode = state.pcode
-			districts = self.districts
-			@@state_index[state_pcode].map do |index|
-				districts[index]
+		def of_district(district)
+			state_pcode = district.pcode
+			townships = self.townships
+			@@district_index[state_pcode].map do |index|
+				townships[index]
 			end
 		end
 
 		def find_by(query)
 			key = get_key(query)
-			(index = send("#{key}_index".to_sym).index(query[key])) && districts[index]
+			(index = send("#{key}_index".to_sym).index(query[key])) && townships[index]
 		end
 
 		def find_by!(query)
@@ -62,7 +58,7 @@ class Nayyar::District
 				district
 			else
 				key = get_key(query)
-				raise Nayyar::DistrictNotFound.new("Cannot find State with given #{key}: #{query[key]}")
+				raise Nayyar::TownshipNotFound.new("Cannot find State with given #{key}: #{query[key]}")
 			end
 		end
 
@@ -76,35 +72,36 @@ class Nayyar::District
 	  end
 
 		protected
-			def districts
-	    	unless @@districts
+			def townships
+	    	unless @@townships
 					require "yaml"
-	    		data = YAML.load_file(File.join(File.dirname(__FILE__), '..', 'data', 'districts.yml'))
+	    		data = YAML.load_file(File.join(File.dirname(__FILE__), '..', 'data', 'townships.yml'))
 	    		indices = INDICES.inject({}) { |memo, index| memo.merge index => [] }
 	    		i = 0
-	    		@@districts= data.map do |district_row|
-	    			state_pcode = district_row[:state]
-	    			district = new(district_row)
+	    		@@townships= data.map do |township_row|
+	    			district_pcode = township_row[:district]
+	    			district = new(township_row)
 	    			INDICES.each do |index|
 	    				indices[index] << district.send(index)
 	    			end
-	    			@@state_index[state_pcode] ||= []
-	    			@@state_index[state_pcode] << i
+	    			@@district_index[district_pcode] ||= []
+	    			@@district_index[district_pcode] << i
 	    			i += 1
 		    		district
 	    		end
+
 
 	    		INDICES.each do |index|
 	    			class_variable_set("@@#{index}_index", indices[index])
 	    		end
 	    	end
-	    	@@districts
+	    	@@townships
 			end
 
 	    ## define private methods for internal use of indexed array
 	    INDICES.each do |index|
 		    define_method("#{index}_index") do
-		    	districts
+			    townships
 		    	class_variable_get("@@#{index}_index")
 		    end
 	    end
@@ -119,4 +116,4 @@ class Nayyar::District
 		  end
 	end
 end
-class Nayyar::DistrictNotFound < StandardError; end;
+class Nayyar::TownshipNotFound < StandardError; end;

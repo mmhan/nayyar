@@ -1,7 +1,5 @@
-# Nayyar
+# Nayyar (နေရာ)
 [![Build Status](https://travis-ci.org/mmhan/nayyar.png)](https://travis-ci.org/mmhan/nayyar.png)
-
-** THIS GEM IS STILL A WORK IN PROGRESS.**
 
 Nayyar is created with the intent of providing basic access to State/Regions, Districts or Townships of Myanmar, based on standards of Myanmar's country-wide census of 2014.
 
@@ -98,18 +96,61 @@ Nayyar::District.find_by(pcode:"MMR001D001").state
 
 Use any of the `find_by` or `find_by_**index_name**` with a bang `!` to trigger `Nayyar::DistrictNotFound` error.
 
+### Townships
+
+Find all townships using
+```ruby
+Nayyar::Townships.all
+```
+
+Find townships under a certain state using
+```ruby
+ygn_east = Nayyar::District.find_by_pcode "MMR013D002"
+# get an array of all districts under Shan state using
+ygn_east.townships
+# or
+Nayyar::Township.of_district(ygn_east)
+```
+
+Find a township using pcode
+```ruby
+Nayyar::Township.find_by_pcode("MMR013017")
+# or
+Nayyar::Township.find_by(pcode:"MMR013017")
+
+# => #<Nayyar::Township:0x007fb8a5b605e8 @data={:pcode=>"MMR013017", :name=>"Botahtaung", :district=>"MMR013D002"}>
+```
+
+Find the district that a township belongs to using
+```ruby
+Nayyar::Township.find_by(pcode:"MMR013017").township
+
+# => <Nayyar::District:0x007fb8a5ad14d8 @data={:pcode=>"MMR013D002", :name=>"Yangon (East)", :state=>"MMR013"}>
+```
+
+Use any of the `find_by` or `find_by_**index_name**` with a bang `!` to trigger `Nayyar::TownshipNotFound` error.
 <!--
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `bin/console` for an interactive prompt that will allow you to experiment.
 
 To install this gem onto your local machine, run `bundle exec rake install`. To release a new version, update the version number in `version.rb`, and then run `bundle exec rake release` to create a git tag for the version, push git commits and tags, and push the `.gem` file to [rubygems.org](https://rubygems.org).
+-->
+
+## Goals
+1. Make it work
+  - Create just enough API to allow creations of dropdowns/multiple-select options in HTML
+2. Make it right
+  - Remove duplicate/similar codes across the three main classes using metaprogramming
+3. Make it fast
+  - Optimize memory footprint by refactoring the way data is stored/read/used
+
+If you feel that I have missed out your use-case or if you wanna add other goals, objectives submit an issue so that I can plan it in.
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/nayyar/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
+1. Fork it ( https://github.com/mmhan/nayyar/fork )
+2. Create your feature branch (`git checkout -b feature/my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
+4. Push to the branch (`git push origin feature/my-new-feature`)
 5. Create a new Pull Request
--->

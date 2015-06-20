@@ -1,1240 +1,1240 @@
 ---
 - :pcode: MMR001001
   :name: Myitkyina
-  :distrct: MMR001D001
+  :district: MMR001D001
 - :pcode: MMR001002
   :name: Waingmaw
-  :distrct: MMR001D001
+  :district: MMR001D001
 - :pcode: MMR001003
   :name: Injangyang
-  :distrct: MMR001D001
+  :district: MMR001D001
 - :pcode: MMR001004
   :name: Tanai
-  :distrct: MMR001D001
+  :district: MMR001D001
 - :pcode: MMR001005
   :name: Chipwi
-  :distrct: MMR001D001
+  :district: MMR001D001
 - :pcode: MMR001006
   :name: Tsawlaw
-  :distrct: MMR001D001
+  :district: MMR001D001
 - :pcode: MMR001001702
   :name: Sinbo
-  :distrct: MMR001D001
+  :district: MMR001D001
 - :pcode: MMR001002702
   :name: Sadung
-  :distrct: MMR001D001
+  :district: MMR001D001
 - :pcode: MMR001002703
   :name: Kan Paik Ti
-  :distrct: MMR001D001
+  :district: MMR001D001
 - :pcode: MMR001004702
   :name: Shin Bway Yang
-  :distrct: MMR001D001
+  :district: MMR001D001
 - :pcode: MMR001005702
   :name: Pang War
-  :distrct: MMR001D001
+  :district: MMR001D001
 - :pcode: MMR001007
   :name: Mohnyin
-  :distrct: MMR001D002
+  :district: MMR001D002
 - :pcode: MMR001008
   :name: Mogaung
-  :distrct: MMR001D002
+  :district: MMR001D002
 - :pcode: MMR001009
   :name: Hpakant
-  :distrct: MMR001D002
+  :district: MMR001D002
 - :pcode: MMR001007702
   :name: Hopin
-  :distrct: MMR001D002
+  :district: MMR001D002
 - :pcode: MMR001009702
   :name: Kamaing
-  :distrct: MMR001D002
+  :district: MMR001D002
 - :pcode: MMR001010
   :name: Bhamo
-  :distrct: MMR001D003
+  :district: MMR001D003
 - :pcode: MMR001011
   :name: Shwegu
-  :distrct: MMR001D003
+  :district: MMR001D003
 - :pcode: MMR001012
   :name: Momauk
-  :distrct: MMR001D003
+  :district: MMR001D003
 - :pcode: MMR001013
   :name: Mansi
-  :distrct: MMR001D003
+  :district: MMR001D003
 - :pcode: MMR001011702
   :name: Myo Hla
-  :distrct: MMR001D003
+  :district: MMR001D003
 - :pcode: MMR001012702
   :name: Lwegel
-  :distrct: MMR001D003
+  :district: MMR001D003
 - :pcode: MMR001012703
   :name: Dawthponeyan
-  :distrct: MMR001D003
+  :district: MMR001D003
 - :pcode: MMR001014
   :name: Puta-O
-  :distrct: MMR001D004
+  :district: MMR001D004
 - :pcode: MMR001015
   :name: Sumprabum
-  :distrct: MMR001D004
+  :district: MMR001D004
 - :pcode: MMR001016
   :name: Machanbaw
-  :distrct: MMR001D004
+  :district: MMR001D004
 - :pcode: MMR001018
   :name: Khaunglanhpu
-  :distrct: MMR001D004
+  :district: MMR001D004
 - :pcode: MMR001017
   :name: Nawngmun
-  :distrct: MMR001D004
+  :district: MMR001D004
 - :pcode: MMR001017702
   :name: Pannandin
-  :distrct: MMR001D004
+  :district: MMR001D004
 - :pcode: MMR002001
   :name: Loikaw
-  :distrct: MMR002D001
+  :district: MMR002D001
 - :pcode: MMR002002
   :name: Demoso
-  :distrct: MMR002D001
+  :district: MMR002D001
 - :pcode: MMR002003
   :name: Hpruso
-  :distrct: MMR002D001
+  :district: MMR002D001
 - :pcode: MMR002004
   :name: Shadaw
-  :distrct: MMR002D001
+  :district: MMR002D001
 - :pcode: MMR002005
   :name: Bawlakhe
-  :distrct: MMR002D002
+  :district: MMR002D002
 - :pcode: MMR002006
   :name: Hpasawng
-  :distrct: MMR002D002
+  :district: MMR002D002
 - :pcode: MMR002007
   :name: Mese
-  :distrct: MMR002D002
+  :district: MMR002D002
 - :pcode: MMR002005702
   :name: Ywarthit
-  :distrct: MMR002D002
+  :district: MMR002D002
 - :pcode: MMR003001
   :name: Hpa-An
-  :distrct: MMR003D001
+  :district: MMR003D001
 - :pcode: MMR003002
   :name: Hlaingbwe
-  :distrct: MMR003D001
+  :district: MMR003D001
 - :pcode: MMR003004
   :name: Thandaunggyi
-  :distrct: MMR003D001
+  :district: MMR003D001
 - :pcode: MMR003002702
   :name: Paingkyon
-  :distrct: MMR003D001
+  :district: MMR003D001
 - :pcode: MMR003002703
   :name: Shan Ywar Thit
-  :distrct: MMR003D001
+  :district: MMR003D001
 - :pcode: MMR003004703
   :name: Leik Tho
-  :distrct: MMR003D001
+  :district: MMR003D001
 - :pcode: MMR003004704
   :name: Baw Ga Li
-  :distrct: MMR003D001
+  :district: MMR003D001
 - :pcode: MMR003003
   :name: Hpapun
-  :distrct: MMR003D004
+  :district: MMR003D004
 - :pcode: MMR003003702
   :name: Kamarmaung
-  :distrct: MMR003D004
+  :district: MMR003D004
 - :pcode: MMR003005
   :name: Myawaddy
-  :distrct: MMR003D002
+  :district: MMR003D002
 - :pcode: MMR003005702
   :name: Su Ka Li
-  :distrct: MMR003D002
+  :district: MMR003D002
 - :pcode: MMR003005703
   :name: Waw Lay Myaing  (Waw Lay)
-  :distrct: MMR003D002
+  :district: MMR003D002
 - :pcode: MMR003006
   :name: Kawkareik
-  :distrct: MMR003D003
+  :district: MMR003D003
 - :pcode: MMR003007
   :name: Kyainseikgyi
-  :distrct: MMR003D003
+  :district: MMR003D003
 - :pcode: MMR003007702
   :name: Hpayarthonesu
-  :distrct: MMR003D003
+  :district: MMR003D003
 - :pcode: MMR003007703
   :name: Kyaikdon
-  :distrct: MMR003D003
+  :district: MMR003D003
 - :pcode: MMR004002
   :name: Hakha
-  :distrct: MMR004D003
+  :district: MMR004D003
 - :pcode: MMR004003
   :name: Thantlang
-  :distrct: MMR004D003
+  :district: MMR004D003
 - :pcode: MMR004001
   :name: Falam
-  :distrct: MMR004D001
+  :district: MMR004D001
 - :pcode: MMR004004
   :name: Tedim
-  :distrct: MMR004D001
+  :district: MMR004D001
 - :pcode: MMR004005
   :name: Tonzang
-  :distrct: MMR004D001
+  :district: MMR004D001
 - :pcode: MMR004001702
   :name: Rihkhawdar
-  :distrct: MMR004D001
+  :district: MMR004D001
 - :pcode: MMR004005702
   :name: Cikha
-  :distrct: MMR004D001
+  :district: MMR004D001
 - :pcode: MMR004006
   :name: Mindat
-  :distrct: MMR004D002
+  :district: MMR004D002
 - :pcode: MMR004007
   :name: Matupi
-  :distrct: MMR004D002
+  :district: MMR004D002
 - :pcode: MMR004008
   :name: Kanpetlet
-  :distrct: MMR004D002
+  :district: MMR004D002
 - :pcode: MMR004009
   :name: Paletwa
-  :distrct: MMR004D002
+  :district: MMR004D002
 - :pcode: MMR004007702
   :name: Rezua
-  :distrct: MMR004D002
+  :district: MMR004D002
 - :pcode: MMR004009702
   :name: Samee
-  :distrct: MMR004D002
+  :district: MMR004D002
 - :pcode: MMR005001
   :name: Sagaing
-  :distrct: MMR005D001
+  :district: MMR005D001
 - :pcode: MMR005002
   :name: Myinmu
-  :distrct: MMR005D001
+  :district: MMR005D001
 - :pcode: MMR005003
   :name: Myaung
-  :distrct: MMR005D001
+  :district: MMR005D001
 - :pcode: MMR005004
   :name: Shwebo
-  :distrct: MMR005D002
+  :district: MMR005D002
 - :pcode: MMR005005
   :name: Khin-U
-  :distrct: MMR005D002
+  :district: MMR005D002
 - :pcode: MMR005006
   :name: Wetlet
-  :distrct: MMR005D002
+  :district: MMR005D002
 - :pcode: MMR005007
   :name: Kanbalu
-  :distrct: MMR005D002
+  :district: MMR005D002
 - :pcode: MMR005008
   :name: Kyunhla
-  :distrct: MMR005D002
+  :district: MMR005D002
 - :pcode: MMR005009
   :name: Ye-U
-  :distrct: MMR005D002
+  :district: MMR005D002
 - :pcode: MMR005010
   :name: Tabayin
-  :distrct: MMR005D002
+  :district: MMR005D002
 - :pcode: MMR005011
   :name: Taze
-  :distrct: MMR005D002
+  :district: MMR005D002
 - :pcode: MMR005004702
   :name: Kyauk Myaung
-  :distrct: MMR005D002
+  :district: MMR005D002
 - :pcode: MMR005012
   :name: Monywa
-  :distrct: MMR005D003
+  :district: MMR005D003
 - :pcode: MMR005013
   :name: Budalin
-  :distrct: MMR005D003
+  :district: MMR005D003
 - :pcode: MMR005014
   :name: Ayadaw
-  :distrct: MMR005D003
+  :district: MMR005D003
 - :pcode: MMR005015
   :name: Chaung-U
-  :distrct: MMR005D003
+  :district: MMR005D003
 - :pcode: MMR005020
   :name: Katha
-  :distrct: MMR005D004
+  :district: MMR005D004
 - :pcode: MMR005021
   :name: Indaw
-  :distrct: MMR005D004
+  :district: MMR005D004
 - :pcode: MMR005022
   :name: Tigyaing
-  :distrct: MMR005D004
+  :district: MMR005D004
 - :pcode: MMR005023
   :name: Banmauk
-  :distrct: MMR005D004
+  :district: MMR005D004
 - :pcode: MMR005024
   :name: Kawlin
-  :distrct: MMR005D004
+  :district: MMR005D004
 - :pcode: MMR005025
   :name: Wuntho
-  :distrct: MMR005D004
+  :district: MMR005D004
 - :pcode: MMR005026
   :name: Pinlebu
-  :distrct: MMR005D004
+  :district: MMR005D004
 - :pcode: MMR005027
   :name: Kale
-  :distrct: MMR005D005
+  :district: MMR005D005
 - :pcode: MMR005028
   :name: Kalewa
-  :distrct: MMR005D005
+  :district: MMR005D005
 - :pcode: MMR005029
   :name: Mingin
-  :distrct: MMR005D005
+  :district: MMR005D005
 - :pcode: MMR005030
   :name: Tamu
-  :distrct: MMR005D006
+  :district: MMR005D006
 - :pcode: MMR005030702
   :name: 'Myothit '
-  :distrct: MMR005D006
+  :district: MMR005D006
 - :pcode: MMR005030703
   :name: 'Khampat '
-  :distrct: MMR005D006
+  :district: MMR005D006
 - :pcode: MMR005031
   :name: Mawlaik
-  :distrct: MMR005D007
+  :district: MMR005D007
 - :pcode: MMR005032
   :name: Paungbyin
-  :distrct: MMR005D007
+  :district: MMR005D007
 - :pcode: MMR005033
   :name: Hkamti
-  :distrct: MMR005D008
+  :district: MMR005D008
 - :pcode: MMR005034
   :name: Homalin
-  :distrct: MMR005D008
+  :district: MMR005D008
 - :pcode: MMR005035
   :name: Lay Shi
-  :distrct: MMR005D008
+  :district: MMR005D008
 - :pcode: MMR005036
   :name: Lahe
-  :distrct: MMR005D008
+  :district: MMR005D008
 - :pcode: MMR005037
   :name: Nanyun
-  :distrct: MMR005D008
+  :district: MMR005D008
 - :pcode: MMR005035702
   :name: 'Mo Paing Lut '
-  :distrct: MMR005D008
+  :district: MMR005D008
 - :pcode: MMR005036703
   :name: Sum Ma Rar
-  :distrct: MMR005D008
+  :district: MMR005D008
 - :pcode: MMR005036702
   :name: Htan Par Kway
-  :distrct: MMR005D008
+  :district: MMR005D008
 - :pcode: MMR005037702
   :name: 'Pansaung '
-  :distrct: MMR005D008
+  :district: MMR005D008
 - :pcode: MMR005037703
   :name: 'Don Hee '
-  :distrct: MMR005D008
+  :district: MMR005D008
 - :pcode: MMR005016
   :name: Yinmabin
-  :distrct: MMR005D009
+  :district: MMR005D009
 - :pcode: MMR005018
   :name: Salingyi
-  :distrct: MMR005D009
+  :district: MMR005D009
 - :pcode: MMR005019
   :name: Pale
-  :distrct: MMR005D009
+  :district: MMR005D009
 - :pcode: MMR005017
   :name: Kani
-  :distrct: MMR005D009
+  :district: MMR005D009
 - :pcode: MMR006001
   :name: Dawei
-  :distrct: MMR006D001
+  :district: MMR006D001
 - :pcode: MMR006002
   :name: Launglon
-  :distrct: MMR006D001
+  :district: MMR006D001
 - :pcode: MMR006003
   :name: Thayetchaung
-  :distrct: MMR006D001
+  :district: MMR006D001
 - :pcode: MMR006004
   :name: Yebyu
-  :distrct: MMR006D001
+  :district: MMR006D001
 - :pcode: MMR006001702
   :name: Myitta
-  :distrct: MMR006D001
+  :district: MMR006D001
 - :pcode: MMR006004702
   :name: 'Kaleinaung '
-  :distrct: MMR006D001
+  :district: MMR006D001
 - :pcode: MMR006005
   :name: Myeik
-  :distrct: MMR006D002
+  :district: MMR006D002
 - :pcode: MMR006006
   :name: Kyunsu
-  :distrct: MMR006D002
+  :district: MMR006D002
 - :pcode: MMR006007
   :name: Palaw
-  :distrct: MMR006D002
+  :district: MMR006D002
 - :pcode: MMR006008
   :name: Tanintharyi
-  :distrct: MMR006D002
+  :district: MMR006D002
 - :pcode: MMR006007702
   :name: 'Palauk '
-  :distrct: MMR006D002
+  :district: MMR006D002
 - :pcode: MMR006009
   :name: Kawthoung
-  :distrct: MMR006D003
+  :district: MMR006D003
 - :pcode: MMR006010
   :name: Bokpyin
-  :distrct: MMR006D003
+  :district: MMR006D003
 - :pcode: MMR006009702
   :name: 'Khamaukgyi '
-  :distrct: MMR006D003
+  :district: MMR006D003
 - :pcode: MMR006010702
   :name: 'Pyigyimandaing '
-  :distrct: MMR006D003
+  :district: MMR006D003
 - :pcode: MMR006010703
   :name: Karathuri
-  :distrct: MMR006D003
+  :district: MMR006D003
 - :pcode: MMR007001
   :name: Bago
-  :distrct: MMR007D001
+  :district: MMR007D001
 - :pcode: MMR007002
   :name: Thanatpin
-  :distrct: MMR007D001
+  :district: MMR007D001
 - :pcode: MMR007003
   :name: Kawa
-  :distrct: MMR007D001
+  :district: MMR007D001
 - :pcode: MMR007004
   :name: Waw
-  :distrct: MMR007D001
+  :district: MMR007D001
 - :pcode: MMR007005
   :name: Nyaunglebin
-  :distrct: MMR007D001
+  :district: MMR007D001
 - :pcode: MMR007006
   :name: Kyauktaga
-  :distrct: MMR007D001
+  :district: MMR007D001
 - :pcode: MMR007007
   :name: Daik-U
-  :distrct: MMR007D001
+  :district: MMR007D001
 - :pcode: MMR007008
   :name: Shwegyin
-  :distrct: MMR007D001
+  :district: MMR007D001
 - :pcode: MMR007009
   :name: Taungoo
-  :distrct: MMR007D002
+  :district: MMR007D002
 - :pcode: MMR007010
   :name: Yedashe
-  :distrct: MMR007D002
+  :district: MMR007D002
 - :pcode: MMR007011
   :name: Kyaukkyi
-  :distrct: MMR007D002
+  :district: MMR007D002
 - :pcode: MMR007012
   :name: Phyu
-  :distrct: MMR007D002
+  :district: MMR007D002
 - :pcode: MMR007013
   :name: Oktwin
-  :distrct: MMR007D002
+  :district: MMR007D002
 - :pcode: MMR007014
   :name: Htantabin
-  :distrct: MMR007D002
+  :district: MMR007D002
 - :pcode: MMR008001
   :name: Pyay
-  :distrct: MMR008D001
+  :district: MMR008D001
 - :pcode: MMR008002
   :name: Paukkhaung
-  :distrct: MMR008D001
+  :district: MMR008D001
 - :pcode: MMR008003
   :name: Padaung
-  :distrct: MMR008D001
+  :district: MMR008D001
 - :pcode: MMR008004
   :name: Paungde
-  :distrct: MMR008D001
+  :district: MMR008D001
 - :pcode: MMR008005
   :name: Thegon
-  :distrct: MMR008D001
+  :district: MMR008D001
 - :pcode: MMR008006
   :name: Shwedaung
-  :distrct: MMR008D001
+  :district: MMR008D001
 - :pcode: MMR008007
   :name: Thayarwady
-  :distrct: MMR008D002
+  :district: MMR008D002
 - :pcode: MMR008008
   :name: Letpadan
-  :distrct: MMR008D002
+  :district: MMR008D002
 - :pcode: MMR008009
   :name: Minhla
-  :distrct: MMR008D002
+  :district: MMR008D002
 - :pcode: MMR008010
   :name: Okpho
-  :distrct: MMR008D002
+  :district: MMR008D002
 - :pcode: MMR008011
   :name: Zigon
-  :distrct: MMR008D002
+  :district: MMR008D002
 - :pcode: MMR008012
   :name: Nattalin
-  :distrct: MMR008D002
+  :district: MMR008D002
 - :pcode: MMR008013
   :name: Monyo
-  :distrct: MMR008D002
+  :district: MMR008D002
 - :pcode: MMR008014
   :name: Gyobingauk
-  :distrct: MMR008D002
+  :district: MMR008D002
 - :pcode: MMR009001
   :name: Magway
-  :distrct: MMR009D001
+  :district: MMR009D001
 - :pcode: MMR009002
   :name: Yenangyaung
-  :distrct: MMR009D001
+  :district: MMR009D001
 - :pcode: MMR009003
   :name: Chauk
-  :distrct: MMR009D001
+  :district: MMR009D001
 - :pcode: MMR009004
   :name: Taungdwingyi
-  :distrct: MMR009D001
+  :district: MMR009D001
 - :pcode: MMR009005
   :name: Myothit
-  :distrct: MMR009D001
+  :district: MMR009D001
 - :pcode: MMR009006
   :name: Natmauk
-  :distrct: MMR009D001
+  :district: MMR009D001
 - :pcode: MMR009007
   :name: Minbu
-  :distrct: MMR009D002
+  :district: MMR009D002
 - :pcode: MMR009008
   :name: Pwintbyu
-  :distrct: MMR009D002
+  :district: MMR009D002
 - :pcode: MMR009009
   :name: Ngape
-  :distrct: MMR009D002
+  :district: MMR009D002
 - :pcode: MMR009010
   :name: Salin
-  :distrct: MMR009D002
+  :district: MMR009D002
 - :pcode: MMR009011
   :name: Sidoktaya
-  :distrct: MMR009D002
+  :district: MMR009D002
 - :pcode: MMR009012
   :name: Thayet
-  :distrct: MMR009D003
+  :district: MMR009D003
 - :pcode: MMR009013
   :name: Minhla
-  :distrct: MMR009D003
+  :district: MMR009D003
 - :pcode: MMR009014
   :name: Mindon
-  :distrct: MMR009D003
+  :district: MMR009D003
 - :pcode: MMR009015
   :name: Kamma
-  :distrct: MMR009D003
+  :district: MMR009D003
 - :pcode: MMR009016
   :name: Aunglan
-  :distrct: MMR009D003
+  :district: MMR009D003
 - :pcode: MMR009017
   :name: Sinbaungwe
-  :distrct: MMR009D003
+  :district: MMR009D003
 - :pcode: MMR009018
   :name: Pakokku
-  :distrct: MMR009D004
+  :district: MMR009D004
 - :pcode: MMR009019
   :name: Yesagyo
-  :distrct: MMR009D004
+  :district: MMR009D004
 - :pcode: MMR009020
   :name: Myaing
-  :distrct: MMR009D004
+  :district: MMR009D004
 - :pcode: MMR009021
   :name: Pauk
-  :distrct: MMR009D004
+  :district: MMR009D004
 - :pcode: MMR009022
   :name: Seikphyu
-  :distrct: MMR009D004
+  :district: MMR009D004
 - :pcode: MMR009023
   :name: Gangaw
-  :distrct: MMR009D005
+  :district: MMR009D005
 - :pcode: MMR009024
   :name: Tilin
-  :distrct: MMR009D005
+  :district: MMR009D005
 - :pcode: MMR009025
   :name: Saw
-  :distrct: MMR009D005
+  :district: MMR009D005
 - :pcode: MMR009025702
   :name: 'Kyaukhtu '
-  :distrct: MMR009D005
+  :district: MMR009D005
 - :pcode: MMR010001
   :name: Aungmyaythazan
-  :distrct: MMR010D001
+  :district: MMR010D001
 - :pcode: MMR010002
   :name: Chanayethazan
-  :distrct: MMR010D001
+  :district: MMR010D001
 - :pcode: MMR010003
   :name: Mahaaungmyay
-  :distrct: MMR010D001
+  :district: MMR010D001
 - :pcode: MMR010004
   :name: Chanmyathazi
-  :distrct: MMR010D001
+  :district: MMR010D001
 - :pcode: MMR010005
   :name: Pyigyitagon
-  :distrct: MMR010D001
+  :district: MMR010D001
 - :pcode: MMR010006
   :name: Amarapura
-  :distrct: MMR010D001
+  :district: MMR010D001
 - :pcode: MMR010007
   :name: Patheingyi
-  :distrct: MMR010D001
+  :district: MMR010D001
 - :pcode: MMR010008
   :name: Pyinoolwin
-  :distrct: MMR010D002
+  :district: MMR010D002
 - :pcode: MMR010009
   :name: Madaya
-  :distrct: MMR010D002
+  :district: MMR010D002
 - :pcode: MMR010010
   :name: Singu
-  :distrct: MMR010D002
+  :district: MMR010D002
 - :pcode: MMR010011
   :name: Mogoke
-  :distrct: MMR010D002
+  :district: MMR010D002
 - :pcode: MMR010012
   :name: Thabeikkyin
-  :distrct: MMR010D002
+  :district: MMR010D002
 - :pcode: MMR010012702
   :name: Takaung
-  :distrct: MMR010D002
+  :district: MMR010D002
 - :pcode: MMR010013
   :name: Kyaukse
-  :distrct: MMR010D003
+  :district: MMR010D003
 - :pcode: MMR010014
   :name: Sintgaing
-  :distrct: MMR010D003
+  :district: MMR010D003
 - :pcode: MMR010015
   :name: Myittha
-  :distrct: MMR010D003
+  :district: MMR010D003
 - :pcode: MMR010016
   :name: Tada-U
-  :distrct: MMR010D003
+  :district: MMR010D003
 - :pcode: MMR010017
   :name: Myingyan
-  :distrct: MMR010D004
+  :district: MMR010D004
 - :pcode: MMR010018
   :name: Taungtha
-  :distrct: MMR010D004
+  :district: MMR010D004
 - :pcode: MMR010019
   :name: Natogyi
-  :distrct: MMR010D004
+  :district: MMR010D004
 - :pcode: MMR010020
   :name: Kyaukpadaung
-  :distrct: MMR010D004
+  :district: MMR010D004
 - :pcode: MMR010021
   :name: Ngazun
-  :distrct: MMR010D004
+  :district: MMR010D004
 - :pcode: MMR010022
   :name: Nyaung-U
-  :distrct: MMR010D005
+  :district: MMR010D005
 - :pcode: MMR010022703
   :name: Ngathayauk
-  :distrct: MMR010D005
+  :district: MMR010D005
 - :pcode: MMR010023
   :name: Yamethin
-  :distrct: MMR010D006
+  :district: MMR010D006
 - :pcode: MMR010024
   :name: Pyawbwe
-  :distrct: MMR010D006
+  :district: MMR010D006
 - :pcode: MMR010028
   :name: Meiktila
-  :distrct: MMR010D007
+  :district: MMR010D007
 - :pcode: MMR010029
   :name: Mahlaing
-  :distrct: MMR010D007
+  :district: MMR010D007
 - :pcode: MMR010030
   :name: Thazi
-  :distrct: MMR010D007
+  :district: MMR010D007
 - :pcode: MMR010031
   :name: Wundwin
-  :distrct: MMR010D007
+  :district: MMR010D007
 - :pcode: MMR011001
   :name: Mawlamyine
-  :distrct: MMR011D001
+  :district: MMR011D001
 - :pcode: MMR011002
   :name: Kyaikmaraw
-  :distrct: MMR011D001
+  :district: MMR011D001
 - :pcode: MMR011003
   :name: Chaungzon
-  :distrct: MMR011D001
+  :district: MMR011D001
 - :pcode: MMR011004
   :name: Thanbyuzayat
-  :distrct: MMR011D001
+  :district: MMR011D001
 - :pcode: MMR011005
   :name: Mudon
-  :distrct: MMR011D001
+  :district: MMR011D001
 - :pcode: MMR011006
   :name: Ye
-  :distrct: MMR011D001
+  :district: MMR011D001
 - :pcode: MMR011006702
   :name: Lamaing
-  :distrct: MMR011D001
+  :district: MMR011D001
 - :pcode: MMR011006703
   :name: Khawzar
-  :distrct: MMR011D001
+  :district: MMR011D001
 - :pcode: MMR011007
   :name: Thaton
-  :distrct: MMR011D002
+  :district: MMR011D002
 - :pcode: MMR011008
   :name: Paung
-  :distrct: MMR011D002
+  :district: MMR011D002
 - :pcode: MMR011009
   :name: Kyaikto
-  :distrct: MMR011D002
+  :district: MMR011D002
 - :pcode: MMR011010
   :name: Bilin
-  :distrct: MMR011D002
+  :district: MMR011D002
 - :pcode: MMR012001
   :name: Sittwe
-  :distrct: MMR012D001
+  :district: MMR012D001
 - :pcode: MMR012002
   :name: Ponnagyun
-  :distrct: MMR012D001
+  :district: MMR012D001
 - :pcode: MMR012007
   :name: Pauktaw
-  :distrct: MMR012D001
+  :district: MMR012D001
 - :pcode: MMR012008
   :name: Rathedaung
-  :distrct: MMR012D001
+  :district: MMR012D001
 - :pcode: MMR012003
   :name: Mrauk-U
-  :distrct: MMR012D005
+  :district: MMR012D005
 - :pcode: MMR012004
   :name: Kyauktaw
-  :distrct: MMR012D005
+  :district: MMR012D005
 - :pcode: MMR012005
   :name: Minbya
-  :distrct: MMR012D005
+  :district: MMR012D005
 - :pcode: MMR012006
   :name: Myebon
-  :distrct: MMR012D005
+  :district: MMR012D005
 - :pcode: MMR012009
   :name: Maungdaw
-  :distrct: MMR012D002
+  :district: MMR012D002
 - :pcode: MMR012010
   :name: Buthidaung
-  :distrct: MMR012D002
+  :district: MMR012D002
 - :pcode: MMR012009702
   :name: Taungpyoletwea
-  :distrct: MMR012D002
+  :district: MMR012D002
 - :pcode: MMR012011
   :name: Kyaukpyu
-  :distrct: MMR012D003
+  :district: MMR012D003
 - :pcode: MMR012012
   :name: Munaung
-  :distrct: MMR012D003
+  :district: MMR012D003
 - :pcode: MMR012013
   :name: Ramree
-  :distrct: MMR012D003
+  :district: MMR012D003
 - :pcode: MMR012014
   :name: Ann
-  :distrct: MMR012D003
+  :district: MMR012D003
 - :pcode: MMR012015
   :name: Thandwe
-  :distrct: MMR012D004
+  :district: MMR012D004
 - :pcode: MMR012016
   :name: Toungup
-  :distrct: MMR012D004
+  :district: MMR012D004
 - :pcode: MMR012017
   :name: Gwa
-  :distrct: MMR012D004
+  :district: MMR012D004
 - :pcode: MMR012016702
   :name: 'Ma-Ei '
-  :distrct: MMR012D004
+  :district: MMR012D004
 - :pcode: MMR012017702
   :name: Kyeintali
-  :distrct: MMR012D004
+  :district: MMR012D004
 - :pcode: MMR013001
   :name: Insein
-  :distrct: MMR013D001
+  :district: MMR013D001
 - :pcode: MMR013002
   :name: Mingaladon
-  :distrct: MMR013D001
+  :district: MMR013D001
 - :pcode: MMR013003
   :name: Hmawbi
-  :distrct: MMR013D001
+  :district: MMR013D001
 - :pcode: MMR013004
   :name: Hlegu
-  :distrct: MMR013D001
+  :district: MMR013D001
 - :pcode: MMR013005
   :name: Taikkyi
-  :distrct: MMR013D001
+  :district: MMR013D001
 - :pcode: MMR013006
   :name: Htantabin
-  :distrct: MMR013D001
+  :district: MMR013D001
 - :pcode: MMR013007
   :name: Shwepyithar
-  :distrct: MMR013D001
+  :district: MMR013D001
 - :pcode: MMR013008
   :name: Hlaingtharya
-  :distrct: MMR013D001
+  :district: MMR013D001
 - :pcode: MMR013009
   :name: Thingangyun
-  :distrct: MMR013D002
+  :district: MMR013D002
 - :pcode: MMR013010
   :name: Yankin
-  :distrct: MMR013D002
+  :district: MMR013D002
 - :pcode: MMR013011
   :name: South Okkalapa
-  :distrct: MMR013D002
+  :district: MMR013D002
 - :pcode: MMR013012
   :name: North Okkalapa
-  :distrct: MMR013D002
+  :district: MMR013D002
 - :pcode: MMR013013
   :name: Thaketa
-  :distrct: MMR013D002
+  :district: MMR013D002
 - :pcode: MMR013014
   :name: Dawbon
-  :distrct: MMR013D002
+  :district: MMR013D002
 - :pcode: MMR013015
   :name: Tamwe
-  :distrct: MMR013D002
+  :district: MMR013D002
 - :pcode: MMR013016
   :name: Pazundaung
-  :distrct: MMR013D002
+  :district: MMR013D002
 - :pcode: MMR013017
   :name: Botahtaung
-  :distrct: MMR013D002
+  :district: MMR013D002
 - :pcode: MMR013018
   :name: Dagon Myothit (South)
-  :distrct: MMR013D002
+  :district: MMR013D002
 - :pcode: MMR013019
   :name: Dagon Myothit (North)
-  :distrct: MMR013D002
+  :district: MMR013D002
 - :pcode: MMR013020
   :name: Dagon Myothit (East)
-  :distrct: MMR013D002
+  :district: MMR013D002
 - :pcode: MMR013021
   :name: Dagon Myothit (Seikkan)
-  :distrct: MMR013D002
+  :district: MMR013D002
 - :pcode: MMR013022
   :name: Mingalartaungnyunt
-  :distrct: MMR013D002
+  :district: MMR013D002
 - :pcode: MMR013023
   :name: Thanlyin
-  :distrct: MMR013D003
+  :district: MMR013D003
 - :pcode: MMR013024
   :name: Kyauktan
-  :distrct: MMR013D003
+  :district: MMR013D003
 - :pcode: MMR013025
   :name: Thongwa
-  :distrct: MMR013D003
+  :district: MMR013D003
 - :pcode: MMR013026
   :name: Kayan
-  :distrct: MMR013D003
+  :district: MMR013D003
 - :pcode: MMR013027
   :name: Twantay
-  :distrct: MMR013D003
+  :district: MMR013D003
 - :pcode: MMR013028
   :name: Kawhmu
-  :distrct: MMR013D003
+  :district: MMR013D003
 - :pcode: MMR013029
   :name: Kungyangon
-  :distrct: MMR013D003
+  :district: MMR013D003
 - :pcode: MMR013030
   :name: Dala
-  :distrct: MMR013D003
+  :district: MMR013D003
 - :pcode: MMR013031
   :name: Seikgyikanaungto
-  :distrct: MMR013D003
+  :district: MMR013D003
 - :pcode: MMR013032
   :name: Cocokyun
-  :distrct: MMR013D003
+  :district: MMR013D003
 - :pcode: MMR013024702
   :name: Tadar
-  :distrct: MMR013D003
+  :district: MMR013D003
 - :pcode: MMR013033
   :name: Kyauktada
-  :distrct: MMR013D004
+  :district: MMR013D004
 - :pcode: MMR013034
   :name: Pabedan
-  :distrct: MMR013D004
+  :district: MMR013D004
 - :pcode: MMR013035
   :name: Lanmadaw
-  :distrct: MMR013D004
+  :district: MMR013D004
 - :pcode: MMR013036
   :name: Latha
-  :distrct: MMR013D004
+  :district: MMR013D004
 - :pcode: MMR013037
   :name: Ahlone
-  :distrct: MMR013D004
+  :district: MMR013D004
 - :pcode: MMR013038
   :name: Kyeemyindaing
-  :distrct: MMR013D004
+  :district: MMR013D004
 - :pcode: MMR013039
   :name: Sanchaung
-  :distrct: MMR013D004
+  :district: MMR013D004
 - :pcode: MMR013040
   :name: Hlaing
-  :distrct: MMR013D004
+  :district: MMR013D004
 - :pcode: MMR013041
   :name: Kamaryut
-  :distrct: MMR013D004
+  :district: MMR013D004
 - :pcode: MMR013042
   :name: Mayangone
-  :distrct: MMR013D004
+  :district: MMR013D004
 - :pcode: MMR013043
   :name: Dagon
-  :distrct: MMR013D004
+  :district: MMR013D004
 - :pcode: MMR013044
   :name: Bahan
-  :distrct: MMR013D004
+  :district: MMR013D004
 - :pcode: MMR013045
   :name: Seikkan
-  :distrct: MMR013D004
+  :district: MMR013D004
 - :pcode: MMR014001
   :name: Taunggyi
-  :distrct: MMR014D001
+  :district: MMR014D001
 - :pcode: MMR014002
   :name: Nyaungshwe
-  :distrct: MMR014D001
+  :district: MMR014D001
 - :pcode: MMR014003
   :name: Hopong
-  :distrct: MMR014D001
+  :district: MMR014D001
 - :pcode: MMR014004
   :name: Hsihseng
-  :distrct: MMR014D001
+  :district: MMR014D001
 - :pcode: MMR014005
   :name: Kalaw
-  :distrct: MMR014D001
+  :district: MMR014D001
 - :pcode: MMR014006
   :name: Pindaya
-  :distrct: MMR014D001
+  :district: MMR014D001
 - :pcode: MMR014007
   :name: Ywangan
-  :distrct: MMR014D001
+  :district: MMR014D001
 - :pcode: MMR014008
   :name: Lawksawk
-  :distrct: MMR014D001
+  :district: MMR014D001
 - :pcode: MMR014009
   :name: Pinlaung
-  :distrct: MMR014D001
+  :district: MMR014D001
 - :pcode: MMR014010
   :name: Pekon
-  :distrct: MMR014D001
+  :district: MMR014D001
 - :pcode: MMR014001703
   :name: Kyauktalonegyi
-  :distrct: MMR014D001
+  :district: MMR014D001
 - :pcode: MMR014008702
   :name: Intaw
-  :distrct: MMR014D001
+  :district: MMR014D001
 - :pcode: MMR014009702
   :name: 'Naungtayar '
-  :distrct: MMR014D001
+  :district: MMR014D001
 - :pcode: MMR014011
   :name: Loilen
-  :distrct: MMR014D002
+  :district: MMR014D002
 - :pcode: MMR014012
   :name: Laihka
-  :distrct: MMR014D002
+  :district: MMR014D002
 - :pcode: MMR014013
   :name: Nansang
-  :distrct: MMR014D002
+  :district: MMR014D002
 - :pcode: MMR014014
   :name: Kunhing
-  :distrct: MMR014D002
+  :district: MMR014D002
 - :pcode: MMR014015
   :name: Kyethi
-  :distrct: MMR014D002
+  :district: MMR014D002
 - :pcode: MMR014016
   :name: Mongkaing
-  :distrct: MMR014D002
+  :district: MMR014D002
 - :pcode: MMR014017
   :name: Monghsu
-  :distrct: MMR014D002
+  :district: MMR014D002
 - :pcode: MMR014011702
   :name: Pinlon
-  :distrct: MMR014D002
+  :district: MMR014D002
 - :pcode: MMR014013702
   :name: Kho Lam
-  :distrct: MMR014D002
+  :district: MMR014D002
 - :pcode: MMR014014702
   :name: Kar Li
-  :distrct: MMR014D002
+  :district: MMR014D002
 - :pcode: MMR014015702
   :name: 'Mongnawng '
-  :distrct: MMR014D002
+  :district: MMR014D002
 - :pcode: MMR014017702
   :name: Mongsan (Hmonesan)
-  :distrct: MMR014D002
+  :district: MMR014D002
 - :pcode: MMR014018
   :name: Langkho
-  :distrct: MMR014D003
+  :district: MMR014D003
 - :pcode: MMR014019
   :name: Mongnai
-  :distrct: MMR014D003
+  :district: MMR014D003
 - :pcode: MMR014020
   :name: Mawkmai
-  :distrct: MMR014D003
+  :district: MMR014D003
 - :pcode: MMR014021
   :name: Mongpan
-  :distrct: MMR014D003
+  :district: MMR014D003
 - :pcode: MMR014018702
   :name: Homein
-  :distrct: MMR014D003
+  :district: MMR014D003
 - :pcode: MMR014019702
   :name: 'Kengtawng '
-  :distrct: MMR014D003
+  :district: MMR014D003
 - :pcode: MMR015001
   :name: Lashio
-  :distrct: MMR015D001
+  :district: MMR015D001
 - :pcode: MMR015002
   :name: Hseni
-  :distrct: MMR015D001
+  :district: MMR015D001
 - :pcode: MMR015003
   :name: Mongyai
-  :distrct: MMR015D001
+  :district: MMR015D001
 - :pcode: MMR015004
   :name: Tangyan
-  :distrct: MMR015D001
+  :district: MMR015D001
 - :pcode: MMR015009
   :name: Muse
-  :distrct: MMR015D002
+  :district: MMR015D002
 - :pcode: MMR015010
   :name: Namhkan
-  :distrct: MMR015D002
+  :district: MMR015D002
 - :pcode: MMR015011
   :name: Kutkai
-  :distrct: MMR015D002
+  :district: MMR015D002
 - :pcode: MMR015009702
   :name: Monekoe
-  :distrct: MMR015D002
+  :district: MMR015D002
 - :pcode: MMR015009703
   :name: Manhlyoe (Manhero)
-  :distrct: MMR015D002
+  :district: MMR015D002
 - :pcode: MMR015009704
   :name: Pang Hseng (Kyu Koke)
-  :distrct: MMR015D002
+  :district: MMR015D002
 - :pcode: MMR015011702
   :name: Tarmoenye
-  :distrct: MMR015D002
+  :district: MMR015D002
 - :pcode: MMR015012
   :name: Kyaukme
-  :distrct: MMR015D003
+  :district: MMR015D003
 - :pcode: MMR015013
   :name: Nawnghkio
-  :distrct: MMR015D003
+  :district: MMR015D003
 - :pcode: MMR015014
   :name: Hsipaw
-  :distrct: MMR015D003
+  :district: MMR015D003
 - :pcode: MMR015015
   :name: Namtu
-  :distrct: MMR015D003
+  :district: MMR015D003
 - :pcode: MMR015016
   :name: Namhsan
-  :distrct: MMR015D003
+  :district: MMR015D003
 - :pcode: MMR015017
   :name: Mongmit
-  :distrct: MMR015D003
+  :district: MMR015D003
 - :pcode: MMR015018
   :name: Mabein
-  :distrct: MMR015D003
+  :district: MMR015D003
 - :pcode: MMR015019
   :name: Manton
-  :distrct: MMR015D003
+  :district: MMR015D003
 - :pcode: MMR015012702
   :name: Mongngawt
-  :distrct: MMR015D003
+  :district: MMR015D003
 - :pcode: MMR015012703
   :name: Monglon
-  :distrct: MMR015D003
+  :district: MMR015D003
 - :pcode: MMR015020
   :name: Kunlong
-  :distrct: MMR015D004
+  :district: MMR015D004
 - :pcode: MMR015022
   :name: Laukkaing
-  :distrct: MMR015D005
+  :district: MMR015D005
 - :pcode: MMR015023
   :name: Konkyan
-  :distrct: MMR015D005
+  :district: MMR015D005
 - :pcode: MMR015022702
   :name: 'Chinshwehaw '
-  :distrct: MMR015D005
+  :district: MMR015D005
 - :pcode: MMR015023702
   :name: Maw Hteik
-  :distrct: MMR015D005
+  :district: MMR015D005
 - :pcode: MMR015021
   :name: Hopang
-  :distrct: MMR015D006
+  :district: MMR015D006
 - :pcode: MMR015008
   :name: Mongmao
-  :distrct: MMR015D006
+  :district: MMR015D006
 - :pcode: MMR015007
   :name: Pangwaun
-  :distrct: MMR015D006
+  :district: MMR015D006
 - :pcode: MMR015021703
   :name: Pan Lon
-  :distrct: MMR015D006
+  :district: MMR015D006
 - :pcode: MMR015024
   :name: Matman
-  :distrct: MMR015D007
+  :district: MMR015D007
 - :pcode: MMR015005
   :name: Pangsang
-  :distrct: MMR015D007
+  :district: MMR015D007
 - :pcode: MMR015006
   :name: Narphan
-  :distrct: MMR015D007
+  :district: MMR015D007
 - :pcode: MMR015005702
   :name: Man Kan
-  :distrct: MMR015D007
+  :district: MMR015D007
 - :pcode: MMR016001
   :name: Kengtung
-  :distrct: MMR016D001
+  :district: MMR016D001
 - :pcode: MMR016002
   :name: Mongkhet
-  :distrct: MMR016D001
+  :district: MMR016D001
 - :pcode: MMR016003
   :name: Mongyang
-  :distrct: MMR016D001
+  :district: MMR016D001
 - :pcode: MMR016005
   :name: Mongla
-  :distrct: MMR016D001
+  :district: MMR016D001
 - :pcode: MMR016003702
   :name: Mongpauk
-  :distrct: MMR016D001
+  :district: MMR016D001
 - :pcode: MMR016006
   :name: Monghsat
-  :distrct: MMR016D002
+  :district: MMR016D002
 - :pcode: MMR016007
   :name: Mongping
-  :distrct: MMR016D002
+  :district: MMR016D002
 - :pcode: MMR016008
   :name: Mongton
-  :distrct: MMR016D002
+  :district: MMR016D002
 - :pcode: MMR016006702
   :name: Mongkhoke
-  :distrct: MMR016D002
+  :district: MMR016D002
 - :pcode: MMR016007702
   :name: Tontar
-  :distrct: MMR016D002
+  :district: MMR016D002
 - :pcode: MMR016008702
   :name: Ponparkyin
-  :distrct: MMR016D002
+  :district: MMR016D002
 - :pcode: MMR016008703
   :name: Hmone Hta
-  :distrct: MMR016D002
+  :district: MMR016D002
 - :pcode: MMR016009
   :name: Tachileik
-  :distrct: MMR016D003
+  :district: MMR016D003
 - :pcode: MMR016009703
   :name: Tarlay
-  :distrct: MMR016D003
+  :district: MMR016D003
 - :pcode: MMR016009702
   :name: Kenglat
-  :distrct: MMR016D003
+  :district: MMR016D003
 - :pcode: MMR016010
   :name: Monghpyak
-  :distrct: MMR016D004
+  :district: MMR016D004
 - :pcode: MMR016011
   :name: Mongyawng
-  :distrct: MMR016D004
+  :district: MMR016D004
 - :pcode: MMR016011702
   :name: Mongyu
-  :distrct: MMR016D004
+  :district: MMR016D004
 - :pcode: MMR017002
   :name: Kangyidaunt
-  :distrct: MMR017D001
+  :district: MMR017D001
 - :pcode: MMR017007
   :name: Kyaunggon
-  :distrct: MMR017D001
+  :district: MMR017D001
 - :pcode: MMR017005
   :name: Kyonpyaw
-  :distrct: MMR017D001
+  :district: MMR017D001
 - :pcode: MMR017004
   :name: Ngapudaw
-  :distrct: MMR017D001
+  :district: MMR017D001
 - :pcode: MMR017001
   :name: Pathein
-  :distrct: MMR017D001
+  :district: MMR017D001
 - :pcode: MMR017006
   :name: Yegyi
-  :distrct: MMR017D001
+  :district: MMR017D001
 - :pcode: MMR017003
   :name: Thabaung
-  :distrct: MMR017D001
+  :district: MMR017D001
 - :pcode: MMR017004702
   :name: Ngayokekaung
-  :distrct: MMR017D001
+  :district: MMR017D001
 - :pcode: MMR017004703
   :name: Hainggyikyun
-  :distrct: MMR017D001
+  :district: MMR017D001
 - :pcode: MMR017001702
   :name: Shwethaungyan
-  :distrct: MMR017D001
+  :district: MMR017D001
 - :pcode: MMR017001703
   :name: Ngwesaung
-  :distrct: MMR017D001
+  :district: MMR017D001
 - :pcode: MMR017006702
   :name: Ngathaingchaung
-  :distrct: MMR017D001
+  :district: MMR017D001
 - :pcode: MMR017025
   :name: Kyaiklat
-  :distrct: MMR017D006
+  :district: MMR017D006
 - :pcode: MMR017026
   :name: Dedaye
-  :distrct: MMR017D006
+  :district: MMR017D006
 - :pcode: MMR017023
   :name: Pyapon
-  :distrct: MMR017D006
+  :district: MMR017D006
 - :pcode: MMR017024
   :name: Bogale
-  :distrct: MMR017D006
+  :district: MMR017D006
 - :pcode: MMR017023702
   :name: Ahmar
-  :distrct: MMR017D006
+  :district: MMR017D006
 - :pcode: MMR017021
   :name: Nyaungdon
-  :distrct: MMR017D005
+  :district: MMR017D005
 - :pcode: MMR017022
   :name: Danubyu
-  :distrct: MMR017D005
+  :district: MMR017D005
 - :pcode: MMR017020
   :name: Pantanaw
-  :distrct: MMR017D005
+  :district: MMR017D005
 - :pcode: MMR017019
   :name: Maubin
-  :distrct: MMR017D005
+  :district: MMR017D005
 - :pcode: MMR017014
   :name: Myaungmya
-  :distrct: MMR017D003
+  :district: MMR017D003
 - :pcode: MMR017017
   :name: Wakema
-  :distrct: MMR017D003
+  :district: MMR017D003
 - :pcode: MMR017015
   :name: Einme
-  :distrct: MMR017D003
+  :district: MMR017D003
 - :pcode: MMR017018
   :name: Mawlamyinegyun
-  :distrct: MMR017D004
+  :district: MMR017D004
 - :pcode: MMR017016
   :name: Labutta
-  :distrct: MMR017D004
+  :district: MMR017D004
 - :pcode: MMR017016702
   :name: Pyinsalu
-  :distrct: MMR017D004
+  :district: MMR017D004
 - :pcode: MMR017012
   :name: Kyangin
-  :distrct: MMR017D002
+  :district: MMR017D002
 - :pcode: MMR017009
   :name: Zalun
-  :distrct: MMR017D002
+  :district: MMR017D002
 - :pcode: MMR017011
   :name: Myanaung
-  :distrct: MMR017D002
+  :district: MMR017D002
 - :pcode: MMR017010
   :name: Lemyethna
-  :distrct: MMR017D002
+  :district: MMR017D002
 - :pcode: MMR017008
   :name: Hinthada
-  :distrct: MMR017D002
+  :district: MMR017D002
 - :pcode: MMR017013
   :name: Ingapu
-  :distrct: MMR017D002
+  :district: MMR017D002
 - :pcode: MMR018003
   :name: Tatkon
-  :distrct: MMR018D001
+  :district: MMR018D001
 - :pcode: MMR018001
   :name: Zay Yar Thi Ri
-  :distrct: MMR018D001
+  :district: MMR018D001
 - :pcode: MMR018008
   :name: Oke Ta Ra Thi Ri
-  :distrct: MMR018D001
+  :district: MMR018D001
 - :pcode: MMR018005
   :name: Poke Ba Thi Ri
-  :distrct: MMR018D001
+  :district: MMR018D001
 - :pcode: MMR018006
   :name: Pyinmana
-  :distrct: MMR018D002
+  :district: MMR018D002
 - :pcode: MMR018007
   :name: Lewe
-  :distrct: MMR018D002
+  :district: MMR018D002
 - :pcode: MMR018002
   :name: Za Bu Thi Ri
-  :distrct: MMR018D002
+  :district: MMR018D002
 - :pcode: MMR018004
   :name: 'Det Khi Na Thi Ri '
-  :distrct: MMR018D002
+  :district: MMR018D002
