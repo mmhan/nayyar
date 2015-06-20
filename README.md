@@ -68,11 +68,13 @@ Use any of the `find_by` or `find_by_**index_name**` with a bang `!` to trigger 
 ### Districts
 
 Find all districts using
+
 ```ruby
 Nayyar::District.all
 ```
 
 Find districts under a certain state using
+
 ```ruby
 shan_state = Nayyar::State.find_by_alpha3("SHN")
 # get an array of all districts under Shan state using
@@ -82,6 +84,7 @@ Nayyar::District.of_state(shan_state)
 ```
 
 Find a district using pcode
+
 ```ruby
 Nayyar::District.find_by_pcode("MMR001D001")
 # or
@@ -91,6 +94,7 @@ Nayyar::District.find_by(pcode:"MMR001D001")
 ```
 
 Find the state that a district belongs to using
+
 ```ruby
 Nayyar::District.find_by(pcode:"MMR001D001").state
 
@@ -102,11 +106,13 @@ Use any of the `find_by` or `find_by_**index_name**` with a bang `!` to trigger 
 ### Townships
 
 Find all townships using
+
 ```ruby
 Nayyar::Townships.all
 ```
 
 Find townships under a certain state using
+
 ```ruby
 ygn_east = Nayyar::District.find_by_pcode "MMR013D002"
 # get an array of all districts under Shan state using
@@ -116,6 +122,7 @@ Nayyar::Township.of_district(ygn_east)
 ```
 
 Find a township using pcode
+
 ```ruby
 Nayyar::Township.find_by_pcode("MMR013017")
 # or
@@ -125,6 +132,7 @@ Nayyar::Township.find_by(pcode:"MMR013017")
 ```
 
 Find the district that a township belongs to using
+
 ```ruby
 Nayyar::Township.find_by(pcode:"MMR013017").township
 
