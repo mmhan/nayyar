@@ -23,11 +23,39 @@ Or install it yourself as:
 
     $ gem install nayyar
 
-<!--
 ## Usage
 
-TODO: Write usage instructions here
+Find all states using ``Nayyar::State.all``.
 
+Find states using MIMU's pcodes:
+
+
+    Nayyar::State.find_by_pcode("MMR013")
+    
+    # => <Nayyar::State:0x007fd05cc79e60 @data={:iso=>"MM-06", :pcode=>"MMR013", :alpha3=>"YGN", :name=>"Yangon"}>
+
+
+Find states using ISO3166-2:MM:
+
+
+    Nayyar::State.find_by_iso("MM-01")
+    
+    # => #<Nayyar::State:0x007fd05cc7a040 @data={:iso=>"MM-01", :pcode=>"MMR005", :alpha3=>"SGG", :name=>"Sagaing"}>
+
+
+Find states using alpha3
+
+
+    Nayyar::State.find_by_alpha3("SHN")
+    
+    # => #<Nayyar::State:0x007fd05cc79e38     @data={:iso=>"MM-17", :pcode=>"MMR222", :alpha3=>"SHN", :name=>"Shan"}>
+
+Or you can use a generic finder with an index
+
+    Nayyar::State.find_by(pcode: "MMR013") #or iso: or alpha3:
+
+
+<!--
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `bin/console` for an interactive prompt that will allow you to experiment.
