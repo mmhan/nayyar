@@ -25,35 +25,77 @@ Or install it yourself as:
 
 ## Usage
 
-Find all states using ``Nayyar::State.all``.
+### States
+
+Find all states using
+
+```ruby
+Nayyar::State.all
+```
 
 Find states using MIMU's pcodes:
 
-
-    Nayyar::State.find_by_pcode("MMR013")
-    
-    # => <Nayyar::State:0x007fd05cc79e60 @data={:iso=>"MM-06", :pcode=>"MMR013", :alpha3=>"YGN", :name=>"Yangon"}>
-
+```ruby
+Nayyar::State.find_by_pcode("MMR013")
+# => <Nayyar::State:0x007fd05cc79e60 @data={:iso=>"MM-06", :pcode=>"MMR013", :alpha3=>"YGN", :name=>"Yangon"}>
+```
 
 Find states using ISO3166-2:MM:
 
-
-    Nayyar::State.find_by_iso("MM-01")
-    
-    # => #<Nayyar::State:0x007fd05cc7a040 @data={:iso=>"MM-01", :pcode=>"MMR005", :alpha3=>"SGG", :name=>"Sagaing"}>
+```ruby
+Nayyar::State.find_by_iso("MM-01")
+# => #<Nayyar::State:0x007fd05cc7a040 @data={:iso=>"MM-01", :pcode=>"MMR005", :alpha3=>"SGG", :name=>"Sagaing"}>
+```
 
 
 Find states using alpha3
 
-
-    Nayyar::State.find_by_alpha3("SHN")
-    
-    # => #<Nayyar::State:0x007fd05cc79e38     @data={:iso=>"MM-17", :pcode=>"MMR222", :alpha3=>"SHN", :name=>"Shan"}>
+```ruby
+Nayyar::State.find_by_alpha3("SHN")
+# => #<Nayyar::State:0x007fd05cc79e38     @data={:iso=>"MM-17", :pcode=>"MMR222", :alpha3=>"SHN", :name=>"Shan"}>
+```
 
 Or you can use a generic finder with an index
 
-    Nayyar::State.find_by(pcode: "MMR013") #or iso: or alpha3:
+```ruby
+Nayyar::State.find_by(pcode: "MMR013") #or iso: or alpha3:
+```
 
+Use any of the `find_by` or `find_by_**index_name**` with a bang `!` to trigger `Nayyar::StateNotFound` error.
+
+### Districts
+
+Find all districts using
+```ruby
+Nayyar::District.all
+```
+
+Find districts under a certain state using
+```ruby
+shan_state = Nayyar::State.find_by_alpha3("SHN")
+# get an array of all districts under Shan state using
+shan_state.districts
+# or
+Nayyar::District.of_state(shan_state)
+```
+
+Find a district using pcode
+```ruby
+Nayyar::District.find_by_pcode("MMR001D001")
+# or
+Nayyar::District.find_by(pcode:"MMR001D001")
+
+# => #<Nayyar::District:0x007f9bf5361418 @data={:pcode=>"MMR001D001", :name=>"Myitkyina", :state=>"MMR001"}>
+```
+
+Find the state that a district belongs to using
+```ruby
+Nayyar::District.find_by(pcode:"MMR001D001").state
+
+# => <Nayyar::State:0x007f9bf532fc60 @data={:iso=>"MM-11", :pcode=>"MMR001", :alpha3=>"KCN", :name=>"Kachin"}>
+```
+
+Use any of the `find_by` or `find_by_**index_name**` with a bang `!` to trigger `Nayyar::DistrictNotFound` error.
 
 <!--
 ## Development

@@ -30,6 +30,11 @@ class Nayyar::State
 		@data[key]
 	end
 
+  def districts
+  	Nayyar::District.of_state self
+  end
+
+
 	class << self
 	  INDICES = %w(pcode iso alpha3)
 
