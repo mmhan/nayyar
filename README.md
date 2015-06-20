@@ -1,10 +1,12 @@
-# Nayyar (နေရာ)
+# Nayyar / နေရာ
 [![Build Status](https://travis-ci.org/mmhan/nayyar.png)](https://travis-ci.org/mmhan/nayyar.png)
 
 Nayyar is created with the intent of providing basic access to State/Regions, Districts or Townships of Myanmar, based on standards of Myanmar's country-wide census of 2014.
 
 15 States are indexed by MIMU's pcode, ISO3166-2:MM and alpha3 codes used in plate numbers by transportation authority.
 74 Districts and 413 Townships are indexed by MIMU's pcode.
+
+The current version is `0.1.0` and it uses [Semantic Versioning](http://semver.org/)
 
 ## Installation
 
@@ -139,13 +141,13 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Goals
 1. Make it work
-  - Create just enough API to allow creations of dropdowns/multiple-select options in HTML
+  - Create just enough API to allow creations of dropdowns/multiple-select options in HTML ✓
 2. Make it right
   - Remove duplicate/similar codes across the three main classes using metaprogramming
 3. Make it fast
   - Optimize memory footprint by refactoring the way data is stored/read/used
 
-If you feel that I have missed out your use-case or if you wanna add other goals, objectives submit an issue so that I can plan it in.
+If you feel that I have missed out your use-case or if you wanna add other goals, objectives [submit an issue](https://github.com/mmhan/nayyar/issues/new) so that I can plan it in.
 
 ## Contributing
 
