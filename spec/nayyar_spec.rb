@@ -46,7 +46,7 @@ describe Nayyar::State do
 			subject { described_class.find_by!(pcode: "MMR001") }
 			it { is_expected.to be_a Nayyar::State }
 			it "will raise error if the state isn't found" do
-				expect{ described_class.find_by!(pcode: "FOOBAR")}.to raise_error
+				expect{ described_class.find_by!(pcode: "FOOBAR")}.to raise_error Nayyar::StateNotFound
 			end
 		end
 
@@ -177,7 +177,7 @@ describe Nayyar::District do
 			end
 			it "raise error when it can't be found" do
 				invalid_queries.each do |index, query|
-					expect{ described_class.send("find_by_#{index}!", query) }.to raise_error
+					expect{ described_class.send("find_by_#{index}!", query) }.to raise_error Nayyar::DistrictNotFound
 				end
 			end
 		end

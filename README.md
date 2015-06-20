@@ -1,4 +1,5 @@
 # Nayyar
+[![Build Status](https://travis-ci.org/mmhan/nayyar.png)](https://travis-ci.org/mmhan/nayyar.png)
 
 ** THIS GEM IS STILL A WORK IN PROGRESS.**
 
