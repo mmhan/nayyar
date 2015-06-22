@@ -1,13 +1,13 @@
 # Nayyar / နေရာ
 [![Build Status](https://travis-ci.org/mmhan/nayyar.png)](https://travis-ci.org/mmhan/nayyar.png)
-[![Gem Version](https://badge.fury.io/rb/nayyar.svg)](http://badge.fury.io/rb/nayyar)
+
 
 Nayyar is created with the intent of providing basic access to State/Regions, Districts or Townships of Myanmar, based on standards of Myanmar's country-wide census of 2014.
 
 15 States are indexed by MIMU's pcode, ISO3166-2:MM and alpha3 codes used in plate numbers by transportation authority.
 74 Districts and 413 Townships are indexed by MIMU's pcode.
 
-The current version is `0.1.0` and it uses [Semantic Versioning](http://semver.org/)
+The current version is [![Gem Version](https://badge.fury.io/rb/nayyar.svg)](http://badge.fury.io/rb/nayyar) and it uses [Semantic Versioning](http://semver.org/)
 
 ## Installation
 
@@ -134,7 +134,7 @@ Nayyar::Township.find_by(pcode:"MMR013017")
 Find the district that a township belongs to using
 
 ```ruby
-Nayyar::Township.find_by(pcode:"MMR013017").township
+Nayyar::Township.find_by(pcode:"MMR013017").district
 
 # => <Nayyar::District:0x007fb8a5ad14d8 @data={:pcode=>"MMR013D002", :name=>"Yangon (East)", :state=>"MMR013"}>
 ```
