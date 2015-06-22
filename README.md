@@ -165,3 +165,99 @@ If you feel that I have missed out your use-case or if you wanna add other goals
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin feature/my-new-feature`)
 5. Create a new Pull Request
+
+
+## Documentation
+
+Since, this is a pretty small library, a documentation hasn't been created yet. Nonetheless, here's the rspec output with documentation format.
+
+```
+Nayyar
+  has a version number
+
+Nayyar::State
+  class methods
+    .all
+      should be a kind of Array
+      contains hashes of state data
+    .find_by
+      returns state when it finds it
+      will return nil if state is not found
+      will raise ArgumentError if no argument is provided
+      will raise ArgumentError if wrong argument is provided
+    .find_by!
+      should be a kind of Nayyar::State
+      will raise error if the state isn't found
+    .find_by_**indices**
+      returns state when it finds it
+      returns nil when it can't be found
+    .find_by_**indices**!
+      returns state when it finds it
+      raise error when it can't be found
+  #initialize
+    allows to create a state by providing hash data
+  attributes
+    allows its attributes to be accessed by methods
+    allows its attributes to be accessed as keys
+  #districts
+    return a list of districts under given state
+
+Nayyar::District
+  class methods
+    .all
+      should return all districts
+    .of_state
+      return a list of districts under given state
+    .find_by
+      should be a kind of Nayyar::District
+      returns nil if it's not found
+    .find_by!
+      should be a kind of Nayyar::District
+      raise error if it's not found
+    .find_by_**indices**
+      returns state when it finds it
+      returns nil when it can't be found
+    .find_by_**indices**!
+      returns state when it finds it
+      raise error when it can't be found
+  #initialize
+    allows to create a district by providing hash data
+  attributes
+    allows its attributes to be accessed by methods
+    allows its attributes to be accessed as keys
+  #state
+    should be a kind of Nayyar::State
+    expect it to be a correct state
+  .townships
+    return a list of districts under given district
+
+Nayyar::Township
+  class methods
+    .all
+      should return all township
+    .of_district
+      return a list of districts under given district
+    .find_by
+      should be a kind of Nayyar::Township
+      returns nil if it's not found
+    .find_by!
+      should be a kind of Nayyar::Township
+      raise error if it's not found
+    .find_by_**indices**
+      returns state when it finds it
+      returns nil when it can't be found
+    .find_by_**indices**!
+      returns state when it finds it
+      raise error when it can't be found
+  #initialize
+    allows to create a township by providing hash data
+  attributes
+    allows its attributes to be accessed by methods
+    allows its attributes to be accessed as keys
+  #district
+    should be a kind of Nayyar::District
+    expect it to be a correct state
+
+Finished in 0.1254 seconds (files took 0.1826 seconds to load)
+48 examples, 0 failures
+```
