@@ -1,7 +1,6 @@
 # Nayyar / နေရာ
 [![Build Status](https://travis-ci.org/mmhan/nayyar.png)](https://travis-ci.org/mmhan/nayyar.png)
 
-
 Nayyar is created with the intent of providing basic access to State/Regions, Districts or Townships of Myanmar, based on standards of Myanmar's country-wide census of 2014.
 
 15 States are indexed by MIMU's pcode, ISO3166-2:MM and alpha3 codes used in plate numbers by transportation authority.
