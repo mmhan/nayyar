@@ -1,5 +1,5 @@
 # Nayyar / နေရာ
-[![Build Status](https://travis-ci.org/mmhan/nayyar.png)](https://travis-ci.org/mmhan/nayyar.png)
+[![CircleCI](https://circleci.com/gh/mmhan/nayyar/tree/master.svg?style=svg)](https://circleci.com/gh/mmhan/nayyar/tree/master)
 
 Nayyar is created with the intent of providing basic access to State/Regions, Districts or Townships of Myanmar, based on standards of Myanmar's country-wide census of 2014.
 
