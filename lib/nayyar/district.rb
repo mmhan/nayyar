@@ -10,6 +10,7 @@ class Nayyar::District
   ATTRIBUTES = %i[
     pcode
     name
+    my_name
   ].freeze
 
   INDICES = %w[pcode].freeze
