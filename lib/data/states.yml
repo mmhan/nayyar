@@ -3,59 +3,74 @@
   :pcode: MMR001
   :alpha3: KCN
   :name: Kachin
+  :my_name: ကချင်
 - :iso: MM-12
   :pcode: MMR002
   :alpha3: KYH
   :name: Kayah
+  :my_name: ကယား
 - :iso: MM-13
   :pcode: MMR003
   :alpha3: KYN
   :name: Kayin
+  :my_name: ကရင်
 - :iso: MM-14
   :pcode: MMR004
   :alpha3: CHN
   :name: Chin
+  :my_name: ချင်း
 - :iso: MM-01
   :pcode: MMR005
   :alpha3: SGG
   :name: Sagaing
+  :my_name: စစ်ကိုင်း
 - :iso: MM-05
   :pcode: MMR006
   :alpha3: TNI
   :name: Tanintharyi
+  :my_name: တနင်္သာရီ
 - :iso: MM-02
   :pcode: MMR111
   :alpha3: BGO
   :name: Bago
+  :my_name: ပဲခူး
 - :iso: MM-03
   :pcode: MMR009
   :alpha3: MGY
   :name: Magway
+  :my_name: မကွေး
 - :iso: MM-04
   :pcode: MMR010
   :alpha3: MDY
   :name: Mandalay
+  :my_name: မန္တလေးတိုင်း
 - :iso: MM-15
   :pcode: MMR011
   :alpha3: MON
   :name: Mon
+  :my_name: မွန်
 - :iso: MM-16
   :pcode: MMR012
   :alpha3: RKE
   :name: Rakhine
+  :my_name: ရခိုင်
 - :iso: MM-06
   :pcode: MMR013
   :alpha3: YGN
   :name: Yangon
+  :my_name: ရန်ကုန်
 - :iso: MM-17
   :pcode: MMR222
   :alpha3: SHN
   :name: Shan
+  :my_name: ရှမ်း
 - :iso: MM-07
   :pcode: MMR017
   :alpha3: AYY
   :name: Ayeyarwady
+  :my_name: ဧရာဝတီ
 - :iso: MM-18
   :pcode: MMR018
   :alpha3: NPW
   :name: Nay Pyi Taw
+  :my_name: နေပြည်တော်
