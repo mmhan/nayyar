@@ -79,6 +79,7 @@ describe Nayyar::State do
   let(:state) do
     described_class.new(pcode: 'MMR000',
                         name: 'Fake State',
+                        my_name: 'ပြည်နယ်အတု',
                         iso: 'MM-00',
                         alpha3: 'FKE')
   end
@@ -88,7 +89,7 @@ describe Nayyar::State do
     end
   end
   describe 'attributes' do
-    let(:attributes) { %i[iso pcode name alpha3] }
+    let(:attributes) { %i[iso pcode name my_name alpha3] }
     it 'allows its attributes to be accessed by methods' do
       attributes.each do |method|
         expect(state).to respond_to method
@@ -182,7 +183,7 @@ describe Nayyar::District do
   end
 
   let(:district) do
-    described_class.new(pcode: 'MMR001D001', name: 'Myitkyina', state: 'MMR001')
+    described_class.new(pcode: 'MMR001D001', name: 'Myitkyina', my_name: 'မြစ်ကြီးနား', state: 'MMR001')
   end
 
   describe '#initialize' do
@@ -191,7 +192,7 @@ describe Nayyar::District do
     end
   end
   describe 'attributes' do
-    let(:attributes) { %i[pcode name state] }
+    let(:attributes) { %i[pcode name my_name state] }
     it 'allows its attributes to be accessed by methods' do
       attributes.each do |method|
         expect(district).to respond_to method
@@ -292,7 +293,7 @@ describe Nayyar::Township do
   end
 
   let(:township) do
-    described_class.new(pcode: 'MMR001001', name: 'Myitkyina', district: 'MMR001D001')
+    described_class.new(pcode: 'MMR001001', name: 'Myitkyina', my_name: 'မြစ်ကြီးနား', district: 'MMR001D001')
   end
 
   describe '#initialize' do
@@ -301,7 +302,7 @@ describe Nayyar::Township do
     end
   end
   describe 'attributes' do
-    let(:attributes) { %i[pcode name district] }
+    let(:attributes) { %i[pcode name my_name district] }
     it 'allows its attributes to be accessed by methods' do
       attributes.each do |method|
         expect(township).to respond_to method
