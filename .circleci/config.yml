@@ -21,7 +21,7 @@ jobs:
           command: bundle -v
       - run:
           name: bundle install
-          command: bundle _2.3.10_ install
+          command: bundle _2.3.11_ install
       - run:
           name: rubocop
           command: rubocop 
