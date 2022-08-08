@@ -1,5 +1,6 @@
 AllCops:
     NewCops: enable
+    TargetRubyVersion: 2.7.0
 
 Style/ClassAndModuleChildren:
   EnforcedStyle: compact

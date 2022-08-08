@@ -14,6 +14,7 @@ class Nayyar::State
     iso
     alpha3
     name
+    my_name
   ].freeze
 
   INDICES = %w[pcode iso alpha3].freeze

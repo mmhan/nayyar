@@ -1,0 +1,11 @@
+#!/bin/bash
+set -euo pipefail
+IFS=$'\n\t'
+
+# Parentheses are used to run the command in a subshell. Ruuning a command
+# in sub-shell allows you to stay on the current directory after running 
+# the command.
+
+(cd lib/data && bundle exec ruby extract.rb)
+
+echo "Seeding done"

@@ -11,10 +11,36 @@ states = []
 districts = []
 townships = []
 
-CSV.foreach('locations.csv') do |iso, s_pcode, alpha3, state, d_pcode, district, t_pcode, township| # rubocop:disable Metrics/ParameterLists
-  states << { iso: iso, pcode: s_pcode, alpha3: alpha3, name: state }
-  districts << { pcode: d_pcode, name: district, state: s_pcode } unless d_pcode.nil?
-  townships << { pcode: t_pcode, name: township, district: d_pcode } unless t_pcode.nil?
+def state(location)
+  { iso: location[:iso], pcode: location[:s_pcode], alpha3: location[:alpha3], name: location[:state],
+    my_name: location[:state_in_my] }
+end
+
+def district?(location)
+  !location[:d_pcode].nil?
+end
+
+def district(location)
+  { pcode: location[:d_pcode], name: location[:district], my_name: location[:district_in_my],
+    state: location[:s_pcode] }
+end
+
+def township?(location)
+  !location[:t_pcode].nil?
+end
+
+def township(location)
+  { pcode: location[:t_pcode], name: location[:township], my_name: location[:township_in_my],
+    district: location[:d_pcode] }
+end
+
+CSV.foreach('locations.csv') do |location_csv_data|
+  keys = %i[iso s_pcode alpha3 state state_in_my d_pcode district district_in_my t_pcode township
+            township_in_my]
+  location = keys.zip(*location_csv_data).to_h
+  states << state(location)
+  districts << district(location) if district?(location)
+  townships << township(location) if township?(location)
 end
 states.uniq! { |state| state[:pcode] }
 districts.uniq! { |district| district[:pcode] }

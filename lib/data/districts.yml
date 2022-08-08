@@ -1,223 +1,297 @@
 ---
 - :pcode: MMR001D001
   :name: Myitkyina
+  :my_name: မြစ်ကြီးနား
   :state: MMR001
 - :pcode: MMR001D002
   :name: Mohnyin
+  :my_name: မိုးညှင်
   :state: MMR001
 - :pcode: MMR001D003
   :name: Bhamo
+  :my_name: ဗန်းမော်
   :state: MMR001
 - :pcode: MMR001D004
   :name: Puta-O
+  :my_name: ပူတာအို
   :state: MMR001
 - :pcode: MMR002D001
   :name: Loikaw
+  :my_name: လွိုင်ကော်
   :state: MMR002
 - :pcode: MMR002D002
   :name: Bawlake
+  :my_name: ဘော်လခဲ
   :state: MMR002
 - :pcode: MMR003D001
   :name: Hpa-An
+  :my_name: ဘားအံ
   :state: MMR003
 - :pcode: MMR003D004
   :name: Hpapun
+  :my_name: ဖာပွန်
   :state: MMR003
 - :pcode: MMR003D002
   :name: Myawaddy
+  :my_name: မြဝတီ
   :state: MMR003
 - :pcode: MMR003D003
   :name: Kawkareik
+  :my_name: ကော့ကရိတ်
   :state: MMR003
 - :pcode: MMR004D003
   :name: Hakha
+  :my_name: ဟားခါး
   :state: MMR004
 - :pcode: MMR004D001
   :name: Falam
+  :my_name: ဖလမ်း
   :state: MMR004
 - :pcode: MMR004D002
   :name: Mindat
+  :my_name: မင်းတပ်
   :state: MMR004
 - :pcode: MMR005D001
   :name: Sagaing
+  :my_name: စစ်ကိုင်း
   :state: MMR005
 - :pcode: MMR005D002
   :name: Shwebo
+  :my_name: ရွှေဘို
   :state: MMR005
 - :pcode: MMR005D003
   :name: Monywa
+  :my_name: မုံရွာ
   :state: MMR005
 - :pcode: MMR005D004
   :name: Katha
+  :my_name: ကသာ
   :state: MMR005
 - :pcode: MMR005D005
   :name: Kale
+  :my_name: ကလေး
   :state: MMR005
 - :pcode: MMR005D006
   :name: Tamu
+  :my_name: တမူး
   :state: MMR005
 - :pcode: MMR005D007
   :name: Mawlaik
+  :my_name: မော်လိုက်
   :state: MMR005
 - :pcode: MMR005D008
   :name: Hkamti
+  :my_name: ခန္တီး
   :state: MMR005
 - :pcode: MMR005D009
   :name: Yinmabin
+  :my_name: ယင်းမာပင်
   :state: MMR005
 - :pcode: MMR006D001
   :name: Dawei
+  :my_name: ထားဝယ်
   :state: MMR006
 - :pcode: MMR006D002
   :name: Myeik
+  :my_name: မြိတ်
   :state: MMR006
 - :pcode: MMR006D003
   :name: Kawthoung
+  :my_name: ကော့သောင်း
   :state: MMR006
 - :pcode: MMR007D001
   :name: Bago
+  :my_name: ပဲခူး
   :state: MMR111
 - :pcode: MMR007D002
   :name: Taungoo
+  :my_name: တောင်ငူ
   :state: MMR111
 - :pcode: MMR008D001
   :name: Pyay
+  :my_name: ပြည်
   :state: MMR111
 - :pcode: MMR008D002
   :name: Thayarwady
+  :my_name: သာယာဝတီ
   :state: MMR111
 - :pcode: MMR009D001
   :name: Magway
+  :my_name: မကွေး
   :state: MMR009
 - :pcode: MMR009D002
   :name: Minbu
+  :my_name: မင်းဘူး
   :state: MMR009
 - :pcode: MMR009D003
   :name: Thayet
+  :my_name: သရက်
   :state: MMR009
 - :pcode: MMR009D004
   :name: Pakokku
+  :my_name: ပခုက္ကူ
   :state: MMR009
 - :pcode: MMR009D005
   :name: Gangaw
+  :my_name: ဂန့်ဂေါ
   :state: MMR009
 - :pcode: MMR010D001
   :name: Mandalay
+  :my_name: မန္တလေး
   :state: MMR010
 - :pcode: MMR010D002
   :name: Pyinoolwin
+  :my_name: ပြင်ဦးလွင်
   :state: MMR010
 - :pcode: MMR010D003
   :name: Kyaukse
+  :my_name: ကျောက်ဆည်
   :state: MMR010
 - :pcode: MMR010D004
   :name: Myingyan
+  :my_name: မြင်းခြံ
   :state: MMR010
 - :pcode: MMR010D005
   :name: Nyaung-U
+  :my_name: ညောင်ဦး
   :state: MMR010
 - :pcode: MMR010D006
   :name: Yamethin
+  :my_name: ရမည်းသင်း
   :state: MMR010
 - :pcode: MMR010D007
   :name: Meiktila
+  :my_name: မိတ္ထီလာ
   :state: MMR010
 - :pcode: MMR011D001
   :name: Mawlamyine
+  :my_name: မော်လမြိုင်
   :state: MMR011
 - :pcode: MMR011D002
   :name: Thaton
+  :my_name: သထုံ
   :state: MMR011
 - :pcode: MMR012D001
   :name: Sittwe
+  :my_name: စစ်တွေ
   :state: MMR012
 - :pcode: MMR012D005
   :name: Mrauk-U
+  :my_name: မြောက်ဦး
   :state: MMR012
 - :pcode: MMR012D002
   :name: Maungdaw
+  :my_name: မောင်တော
   :state: MMR012
 - :pcode: MMR012D003
   :name: Kyaukpyu
+  :my_name: ကျောက်ဖြူ
   :state: MMR012
 - :pcode: MMR012D004
   :name: Thandwe
+  :my_name: သံတွဲ
   :state: MMR012
 - :pcode: MMR013D001
   :name: Yangon (North)
+  :my_name: ရန်ကုန်(မြောက်ပိုင်း)
   :state: MMR013
 - :pcode: MMR013D002
   :name: Yangon (East)
+  :my_name: ရန်ကုန်(အရှေ့ပိုင်း)
   :state: MMR013
 - :pcode: MMR013D003
   :name: Yangon (South)
+  :my_name: ရန်ကုန်(တောင်ပိုင်း)
   :state: MMR013
 - :pcode: MMR013D004
   :name: Yangon (West)
+  :my_name: ရန်ကုန်(အနောက်ပိုင်း)
   :state: MMR013
 - :pcode: MMR014D001
   :name: Taunggyi
+  :my_name: တောင်ကြီး
   :state: MMR222
 - :pcode: MMR014D002
   :name: Loilen
+  :my_name: လွိုင်လင်
   :state: MMR222
 - :pcode: MMR014D003
   :name: Langkho
+  :my_name: လင်းခေး
   :state: MMR222
 - :pcode: MMR015D001
   :name: Lashio
+  :my_name: လားရှိုး
   :state: MMR222
 - :pcode: MMR015D002
   :name: Muse
+  :my_name: မူစယ်
   :state: MMR222
 - :pcode: MMR015D003
   :name: Kyaukme
+  :my_name: ကျောက်မဲ
   :state: MMR222
 - :pcode: MMR015D004
   :name: Kunlong
+  :my_name: ကွမ်းလုံ
   :state: MMR222
 - :pcode: MMR015D005
   :name: Laukkaing
+  :my_name: လောက်ကိုင်
   :state: MMR222
 - :pcode: MMR015D006
   :name: Hopang
+  :my_name: ဟိုပန်
   :state: MMR222
 - :pcode: MMR015D007
   :name: Matman
+  :my_name: မက်မန်း
   :state: MMR222
 - :pcode: MMR016D001
   :name: Kengtung
+  :my_name: ကျိုင်းတုံ
   :state: MMR222
 - :pcode: MMR016D002
   :name: Monghsat
+  :my_name: မိုင်းဆတ်
   :state: MMR222
 - :pcode: MMR016D003
   :name: Tachileik
+  :my_name: တာချီလိတ်
   :state: MMR222
 - :pcode: MMR016D004
   :name: Monghpyak
+  :my_name: မိုင်းဖြတ်
   :state: MMR222
 - :pcode: MMR017D001
   :name: Pathein
+  :my_name: ပုသိမ်
   :state: MMR017
 - :pcode: MMR017D006
   :name: Pyapon
+  :my_name: ဖျာပုံ
   :state: MMR017
 - :pcode: MMR017D005
   :name: Maubin
+  :my_name: မအူပင်
   :state: MMR017
 - :pcode: MMR017D003
   :name: Myaungmya
+  :my_name: မြောင်းမြ
   :state: MMR017
 - :pcode: MMR017D004
   :name: Labutta
+  :my_name: လပွတ္တာ
   :state: MMR017
 - :pcode: MMR017D002
   :name: Hinthada
+  :my_name: ဟင်္သာတ
   :state: MMR017
 - :pcode: MMR018D001
   :name: Naypyitaw (North)
+  :my_name: နေပြည်တော်(မြောက်ပိုင်း)
   :state: MMR018
 - :pcode: MMR018D002
   :name: Naypyitaw (South)
+  :my_name: နေပြည်တော်(တောင်ပိုင်း)
   :state: MMR018

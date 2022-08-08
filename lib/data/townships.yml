@@ -1,1240 +1,1653 @@
 ---
 - :pcode: MMR001001
   :name: Myitkyina
+  :my_name: မြစ်ကြီးနား
   :district: MMR001D001
 - :pcode: MMR001002
   :name: Waingmaw
+  :my_name: ဝိုင်းမော်
   :district: MMR001D001
 - :pcode: MMR001003
   :name: Injangyang
+  :my_name: အင်ဂျန်းယန်
   :district: MMR001D001
 - :pcode: MMR001004
   :name: Tanai
+  :my_name: တနိုင်း
   :district: MMR001D001
 - :pcode: MMR001005
   :name: Chipwi
+  :my_name: ချီဖွေ
   :district: MMR001D001
 - :pcode: MMR001006
   :name: Tsawlaw
+  :my_name: ဆော့လော်
   :district: MMR001D001
 - :pcode: MMR001001702
   :name: Sinbo
+  :my_name: ဆင်ဘို
   :district: MMR001D001
 - :pcode: MMR001002702
   :name: Sadung
+  :my_name: ဆဒုံး
   :district: MMR001D001
 - :pcode: MMR001002703
   :name: Kan Paik Ti
+  :my_name: ကန်ပိုက်တီ
   :district: MMR001D001
 - :pcode: MMR001004702
   :name: Shin Bway Yang
+  :my_name: ရှင်ဗွေယန်
   :district: MMR001D001
 - :pcode: MMR001005702
   :name: Pang War
+  :my_name: ပန်ဝါ
   :district: MMR001D001
 - :pcode: MMR001007
   :name: Mohnyin
+  :my_name: မိုးညှင်း
   :district: MMR001D002
 - :pcode: MMR001008
   :name: Mogaung
+  :my_name: မိုးကောင်း
   :district: MMR001D002
 - :pcode: MMR001009
   :name: Hpakant
+  :my_name: ဖားကန့်
   :district: MMR001D002
 - :pcode: MMR001007702
   :name: Hopin
+  :my_name: ဟိုပင်
   :district: MMR001D002
 - :pcode: MMR001009702
   :name: Kamaing
+  :my_name: ကာမိုင်း
   :district: MMR001D002
 - :pcode: MMR001010
   :name: Bhamo
+  :my_name: ဗန်းမော်
   :district: MMR001D003
 - :pcode: MMR001011
   :name: Shwegu
+  :my_name: ရွှေကူ
   :district: MMR001D003
 - :pcode: MMR001012
   :name: Momauk
+  :my_name: မိုးမောက်
   :district: MMR001D003
 - :pcode: MMR001013
   :name: Mansi
+  :my_name: မံစီ
   :district: MMR001D003
 - :pcode: MMR001011702
   :name: Myo Hla
+  :my_name: မြို့လှ
   :district: MMR001D003
 - :pcode: MMR001012702
   :name: Lwegel
+  :my_name: လွယ်ဂျယ်
   :district: MMR001D003
 - :pcode: MMR001012703
   :name: Dawthponeyan
+  :my_name: ဒေါ့ဖုန်းယန်
   :district: MMR001D003
 - :pcode: MMR001014
   :name: Puta-O
+  :my_name: ပူတာအို
   :district: MMR001D004
 - :pcode: MMR001015
   :name: Sumprabum
+  :my_name: ဆွမ်ပရာဘွမ်
   :district: MMR001D004
 - :pcode: MMR001016
   :name: Machanbaw
+  :my_name: မချမ်းဘော
   :district: MMR001D004
 - :pcode: MMR001018
   :name: Khaunglanhpu
+  :my_name: ခေါင်လန်ဖူး
   :district: MMR001D004
 - :pcode: MMR001017
   :name: Nawngmun
+  :my_name: နောင်မွန်း
   :district: MMR001D004
 - :pcode: MMR001017702
   :name: Pannandin
+  :my_name: ပန်နန်းဒင်
   :district: MMR001D004
 - :pcode: MMR002001
   :name: Loikaw
+  :my_name: လွိုင်ကော်
   :district: MMR002D001
 - :pcode: MMR002002
   :name: Demoso
+  :my_name: ဒီမောဆို
   :district: MMR002D001
 - :pcode: MMR002003
   :name: Hpruso
+  :my_name: ဖရူဆို
   :district: MMR002D001
 - :pcode: MMR002004
   :name: Shadaw
+  :my_name: ရှားတော‌
   :district: MMR002D001
 - :pcode: MMR002005
   :name: Bawlakhe
+  :my_name: ဘော်လခဲ
   :district: MMR002D002
 - :pcode: MMR002006
   :name: Hpasawng
+  :my_name: ဖားဆောင်း
   :district: MMR002D002
 - :pcode: MMR002007
   :name: Mese
+  :my_name: မယ်စဲ့
   :district: MMR002D002
 - :pcode: MMR002005702
   :name: Ywarthit
+  :my_name: ရွာသစ်
   :district: MMR002D002
 - :pcode: MMR003001
   :name: Hpa-An
+  :my_name: ဘားအံ
   :district: MMR003D001
 - :pcode: MMR003002
   :name: Hlaingbwe
+  :my_name: လှိုင်းဘွဲ့
   :district: MMR003D001
 - :pcode: MMR003004
   :name: Thandaunggyi
+  :my_name: သံတောင်ကြီး
   :district: MMR003D001
 - :pcode: MMR003002702
   :name: Paingkyon
+  :my_name: ပိုင်ကျုံ
   :district: MMR003D001
 - :pcode: MMR003002703
   :name: Shan Ywar Thit
+  :my_name: ရှမ်းရွာသစ်
   :district: MMR003D001
 - :pcode: MMR003004703
   :name: Leik Tho
+  :my_name: လိပ်သို
   :district: MMR003D001
 - :pcode: MMR003004704
   :name: Baw Ga Li
+  :my_name: ဘောဂလိ
   :district: MMR003D001
 - :pcode: MMR003003
   :name: Hpapun
+  :my_name: ဖာပွန်
   :district: MMR003D004
 - :pcode: MMR003003702
   :name: Kamarmaung
+  :my_name: ကမမောင်း
   :district: MMR003D004
 - :pcode: MMR003005
   :name: Myawaddy
+  :my_name: မြဝတီ
   :district: MMR003D002
 - :pcode: MMR003005702
   :name: Su Ka Li
+  :my_name: စုကလိ
   :district: MMR003D002
 - :pcode: MMR003005703
   :name: Waw Lay Myaing  (Waw Lay)
+  :my_name: ဝေါလေမြိုင် (ဝေါလေ)
   :district: MMR003D002
 - :pcode: MMR003006
   :name: Kawkareik
+  :my_name: ကော့ကရိတ်
   :district: MMR003D003
 - :pcode: MMR003007
   :name: Kyainseikgyi
+  :my_name: ကြာအင်းဆိပ်ကြီး
   :district: MMR003D003
 - :pcode: MMR003007702
   :name: Hpayarthonesu
+  :my_name: ဘုရားသုံးဆူ
   :district: MMR003D003
 - :pcode: MMR003007703
   :name: Kyaikdon
+  :my_name: ကျိုက်ထို
   :district: MMR003D003
 - :pcode: MMR004002
   :name: Hakha
+  :my_name: ဟားခါး
   :district: MMR004D003
 - :pcode: MMR004003
   :name: Thantlang
+  :my_name: ထန်တလန်
   :district: MMR004D003
 - :pcode: MMR004001
   :name: Falam
+  :my_name: ဖလမ်း
   :district: MMR004D001
 - :pcode: MMR004004
   :name: Tedim
+  :my_name: တီးတိန်
   :district: MMR004D001
 - :pcode: MMR004005
   :name: Tonzang
+  :my_name: တွန်းဇံ
   :district: MMR004D001
 - :pcode: MMR004001702
   :name: Rihkhawdar
+  :my_name: " ရိခေါ်ဒါရ်"
   :district: MMR004D001
 - :pcode: MMR004005702
   :name: Cikha
+  :my_name: ကျီခါး
   :district: MMR004D001
 - :pcode: MMR004006
   :name: Mindat
+  :my_name: မင်းတပ်
   :district: MMR004D002
 - :pcode: MMR004007
   :name: Matupi
+  :my_name: မတူပီ
   :district: MMR004D002
 - :pcode: MMR004008
   :name: Kanpetlet
+  :my_name: ကန်ပက်လက်
   :district: MMR004D002
 - :pcode: MMR004009
   :name: Paletwa
+  :my_name: ပလက်၀
   :district: MMR004D002
 - :pcode: MMR004007702
   :name: Rezua
+  :my_name: ရေဇဝါ
   :district: MMR004D002
 - :pcode: MMR004009702
   :name: Samee
+  :my_name: ဆမီး
   :district: MMR004D002
 - :pcode: MMR005001
   :name: Sagaing
+  :my_name: စစ်ကိုင်း
   :district: MMR005D001
 - :pcode: MMR005002
   :name: Myinmu
+  :my_name: မြင်းမူ
   :district: MMR005D001
 - :pcode: MMR005003
   :name: Myaung
+  :my_name: မြောင်
   :district: MMR005D001
 - :pcode: MMR005004
   :name: Shwebo
+  :my_name: ရွှေဘို
   :district: MMR005D002
 - :pcode: MMR005005
   :name: Khin-U
+  :my_name: ခင်ဦး
   :district: MMR005D002
 - :pcode: MMR005006
   :name: Wetlet
+  :my_name: ဝက်လက်
   :district: MMR005D002
 - :pcode: MMR005007
   :name: Kanbalu
+  :my_name: ကန့်ဘလူ
   :district: MMR005D002
 - :pcode: MMR005008
   :name: Kyunhla
+  :my_name: ကျွန်းလှ
   :district: MMR005D002
 - :pcode: MMR005009
   :name: Ye-U
+  :my_name: "ရေဦး\r"
   :district: MMR005D002
 - :pcode: MMR005010
   :name: Tabayin
+  :my_name: ဒီပဲယင်း
   :district: MMR005D002
 - :pcode: MMR005011
   :name: Taze
+  :my_name: တန့်ဆည်
   :district: MMR005D002
 - :pcode: MMR005004702
   :name: Kyauk Myaung
+  :my_name: ကျောက်မြောင်း
   :district: MMR005D002
 - :pcode: MMR005012
   :name: Monywa
+  :my_name: မုံရွာ
   :district: MMR005D003
 - :pcode: MMR005013
   :name: Budalin
+  :my_name: ဘုတလင်
   :district: MMR005D003
 - :pcode: MMR005014
   :name: Ayadaw
+  :my_name: အရာတော်
   :district: MMR005D003
 - :pcode: MMR005015
   :name: Chaung-U
+  :my_name: ချောင်းဦး
   :district: MMR005D003
 - :pcode: MMR005020
   :name: Katha
+  :my_name: ကသာ
   :district: MMR005D004
 - :pcode: MMR005021
   :name: Indaw
+  :my_name: အင်းတော်
   :district: MMR005D004
 - :pcode: MMR005022
   :name: Tigyaing
+  :my_name: ထီးချိုင့်
   :district: MMR005D004
 - :pcode: MMR005023
   :name: Banmauk
+  :my_name: ဗန်းမောက်
   :district: MMR005D004
 - :pcode: MMR005024
   :name: Kawlin
+  :my_name: ကောလင်း
   :district: MMR005D004
 - :pcode: MMR005025
   :name: Wuntho
+  :my_name: ဝန်းသို
   :district: MMR005D004
 - :pcode: MMR005026
   :name: Pinlebu
+  :my_name: ပင်လည်ဘူး
   :district: MMR005D004
 - :pcode: MMR005027
   :name: Kale
+  :my_name: ကလေး
   :district: MMR005D005
 - :pcode: MMR005028
   :name: Kalewa
+  :my_name: ကလေး၀
   :district: MMR005D005
 - :pcode: MMR005029
   :name: Mingin
+  :my_name: မင်းကင်း
   :district: MMR005D005
 - :pcode: MMR005030
   :name: Tamu
+  :my_name: တမူး
   :district: MMR005D006
 - :pcode: MMR005030702
-  :name: 'Myothit '
+  :name: Myothit
+  :my_name: မြို့သစ်
   :district: MMR005D006
 - :pcode: MMR005030703
-  :name: 'Khampat '
+  :name: Khampat
+  :my_name: ခန်းပတ်
   :district: MMR005D006
 - :pcode: MMR005031
   :name: Mawlaik
+  :my_name: မော်လိုက်
   :district: MMR005D007
 - :pcode: MMR005032
   :name: Paungbyin
+  :my_name: ဖေါင်းပြင်
   :district: MMR005D007
 - :pcode: MMR005033
   :name: Hkamti
+  :my_name: ခန္တီး
   :district: MMR005D008
 - :pcode: MMR005034
   :name: Homalin
+  :my_name: ဟုမ္မလင်း
   :district: MMR005D008
 - :pcode: MMR005035
   :name: Lay Shi
+  :my_name: လေရှီး
   :district: MMR005D008
 - :pcode: MMR005036
   :name: Lahe
+  :my_name: လဟယ်
   :district: MMR005D008
 - :pcode: MMR005037
   :name: Nanyun
+  :my_name: နန်းယွန်း
   :district: MMR005D008
 - :pcode: MMR005035702
-  :name: 'Mo Paing Lut '
+  :name: Mo Paing Lut
+  :my_name: မိုပိုင်းလွတ်
   :district: MMR005D008
 - :pcode: MMR005036703
   :name: Sum Ma Rar
+  :my_name: ဆွမ္မရာ
   :district: MMR005D008
 - :pcode: MMR005036702
-  :name: Htan Par Kway
+  :name: Sum Ma Rar
+  :my_name: ထန်ပါခွေ
   :district: MMR005D008
 - :pcode: MMR005037702
-  :name: 'Pansaung '
+  :name: Pansaung
+  :my_name: ပန်ဆောင်
   :district: MMR005D008
 - :pcode: MMR005037703
-  :name: 'Don Hee '
+  :name: Don Hee
+  :my_name: ဒုံဟီး
   :district: MMR005D008
 - :pcode: MMR005016
   :name: Yinmabin
+  :my_name: ယင်းမာပင်
   :district: MMR005D009
 - :pcode: MMR005018
   :name: Salingyi
+  :my_name: ဆားလင်းကြီ
   :district: MMR005D009
 - :pcode: MMR005019
   :name: Pale
+  :my_name: ပုလဲ
   :district: MMR005D009
 - :pcode: MMR005017
   :name: Kani
+  :my_name: ကန်နီ
   :district: MMR005D009
 - :pcode: MMR006001
   :name: Dawei
+  :my_name: ထားဝယ်
   :district: MMR006D001
 - :pcode: MMR006002
   :name: Launglon
+  :my_name: လောင်းလုံ
   :district: MMR006D001
 - :pcode: MMR006003
   :name: Thayetchaung
+  :my_name: သရက်ချောင်း
   :district: MMR006D001
 - :pcode: MMR006004
   :name: Yebyu
+  :my_name: ရေဖြူ
   :district: MMR006D001
 - :pcode: MMR006001702
   :name: Myitta
+  :my_name: မတ်ေတာ
   :district: MMR006D001
 - :pcode: MMR006004702
-  :name: 'Kaleinaung '
+  :name: Kaleinaung
+  :my_name: ကလိန်အောင်
   :district: MMR006D001
 - :pcode: MMR006005
   :name: Myeik
+  :my_name: မြိတ်
   :district: MMR006D002
 - :pcode: MMR006006
   :name: Kyunsu
+  :my_name: ကျွန်းစု
   :district: MMR006D002
 - :pcode: MMR006007
   :name: Palaw
+  :my_name: ပုလော
   :district: MMR006D002
 - :pcode: MMR006008
   :name: Tanintharyi
+  :my_name: တနင်္သာရီ
   :district: MMR006D002
 - :pcode: MMR006007702
-  :name: 'Palauk '
+  :name: Palauk
+  :my_name: ပလောက်
   :district: MMR006D002
 - :pcode: MMR006009
   :name: Kawthoung
+  :my_name: ကော့သောင်း
   :district: MMR006D003
 - :pcode: MMR006010
   :name: Bokpyin
+  :my_name: ဘုတ်ပြင်း
   :district: MMR006D003
 - :pcode: MMR006009702
-  :name: 'Khamaukgyi '
+  :name: Khamaukgyi
+  :my_name: ခမောက်ကြီး
   :district: MMR006D003
 - :pcode: MMR006010702
-  :name: 'Pyigyimandaing '
+  :name: Pyigyimandaing
+  :my_name: ပြည်ကြီးမဏ္ဍိုင်
   :district: MMR006D003
 - :pcode: MMR006010703
   :name: Karathuri
+  :my_name: ကရသူရိ
   :district: MMR006D003
 - :pcode: MMR007001
   :name: Bago
+  :my_name: ပဲခူး
   :district: MMR007D001
 - :pcode: MMR007002
   :name: Thanatpin
+  :my_name: သနပ်ပင်
   :district: MMR007D001
 - :pcode: MMR007003
   :name: Kawa
+  :my_name: ကဝ
   :district: MMR007D001
 - :pcode: MMR007004
   :name: Waw
+  :my_name: ဝေါ
   :district: MMR007D001
 - :pcode: MMR007005
   :name: Nyaunglebin
+  :my_name: ညောင်လေးပင်
   :district: MMR007D001
 - :pcode: MMR007006
   :name: Kyauktaga
+  :my_name: ကျောက်တံခါး
   :district: MMR007D001
 - :pcode: MMR007007
   :name: Daik-U
+  :my_name: ဒိုက်ဦး
   :district: MMR007D001
 - :pcode: MMR007008
   :name: Shwegyin
+  :my_name: ရွှေကျင်
   :district: MMR007D001
 - :pcode: MMR007009
   :name: Taungoo
+  :my_name: တောင်ငူ
   :district: MMR007D002
 - :pcode: MMR007010
   :name: Yedashe
+  :my_name: ရေတာရှည်
   :district: MMR007D002
 - :pcode: MMR007011
   :name: Kyaukkyi
+  :my_name: ကျောက်ကြီး
   :district: MMR007D002
 - :pcode: MMR007012
   :name: Phyu
+  :my_name: ဖြူး
   :district: MMR007D002
 - :pcode: MMR007013
   :name: Oktwin
+  :my_name: အုတ်တွင်း
   :district: MMR007D002
 - :pcode: MMR007014
   :name: Htantabin
+  :my_name: ထန်းတပင်
   :district: MMR007D002
 - :pcode: MMR008001
   :name: Pyay
+  :my_name: ပြည်
   :district: MMR008D001
 - :pcode: MMR008002
   :name: Paukkhaung
+  :my_name: ပေါက်ခေါင်း
   :district: MMR008D001
 - :pcode: MMR008003
   :name: Padaung
+  :my_name: ပန်းတောင်း
   :district: MMR008D001
 - :pcode: MMR008004
   :name: Paungde
+  :my_name: ပေါင်းတည်
   :district: MMR008D001
 - :pcode: MMR008005
   :name: Thegon
+  :my_name: သဲကုန်း
   :district: MMR008D001
 - :pcode: MMR008006
   :name: Shwedaung
+  :my_name: ရွှေတောင်
   :district: MMR008D001
 - :pcode: MMR008007
   :name: Thayarwady
+  :my_name: သာယာဝတီ
   :district: MMR008D002
 - :pcode: MMR008008
   :name: Letpadan
+  :my_name: လက်ပံတန်း
   :district: MMR008D002
 - :pcode: MMR008009
   :name: Minhla
+  :my_name: မင်းလှ
   :district: MMR008D002
 - :pcode: MMR008010
   :name: Okpho
+  :my_name: အုတ်ဖို
   :district: MMR008D002
 - :pcode: MMR008011
   :name: Zigon
+  :my_name: ဇီးကုန်း
   :district: MMR008D002
 - :pcode: MMR008012
   :name: Nattalin
+  :my_name: နတ်တလင်း
   :district: MMR008D002
 - :pcode: MMR008013
   :name: Monyo
+  :my_name: မိုးညို
   :district: MMR008D002
 - :pcode: MMR008014
   :name: Gyobingauk
+  :my_name: ကြို့ပင်ကောက်
   :district: MMR008D002
 - :pcode: MMR009001
   :name: Magway
+  :my_name: မကွေး
   :district: MMR009D001
 - :pcode: MMR009002
   :name: Yenangyaung
+  :my_name: ရေနံချောင်း
   :district: MMR009D001
 - :pcode: MMR009003
   :name: Chauk
+  :my_name: ချောက်
   :district: MMR009D001
 - :pcode: MMR009004
   :name: Taungdwingyi
+  :my_name: တောင်တွင်းကြီး
   :district: MMR009D001
 - :pcode: MMR009005
   :name: Myothit
+  :my_name: မြို့သစ်
   :district: MMR009D001
 - :pcode: MMR009006
   :name: Natmauk
+  :my_name: နတ်မောက်
   :district: MMR009D001
 - :pcode: MMR009007
   :name: Minbu
+  :my_name: မင်းဘူး
   :district: MMR009D002
 - :pcode: MMR009008
   :name: Pwintbyu
+  :my_name: ပွင့်ဖြူ
   :district: MMR009D002
 - :pcode: MMR009009
   :name: Ngape
+  :my_name: ငဖဲ
   :district: MMR009D002
 - :pcode: MMR009010
   :name: Salin
+  :my_name: စလင်း
   :district: MMR009D002
 - :pcode: MMR009011
   :name: Sidoktaya
+  :my_name: စေတုတ္ထရာ
   :district: MMR009D002
 - :pcode: MMR009012
   :name: Thayet
+  :my_name: သရက်
   :district: MMR009D003
 - :pcode: MMR009013
   :name: Minhla
+  :my_name: မင်းလှ
   :district: MMR009D003
 - :pcode: MMR009014
   :name: Mindon
+  :my_name: မင်းတုန်း
   :district: MMR009D003
 - :pcode: MMR009015
   :name: Kamma
+  :my_name: ကမ္မ
   :district: MMR009D003
 - :pcode: MMR009016
   :name: Aunglan
+  :my_name: အောင်လံ
   :district: MMR009D003
 - :pcode: MMR009017
   :name: Sinbaungwe
+  :my_name: ဆင်ပေါင်ဝဲ
   :district: MMR009D003
 - :pcode: MMR009018
   :name: Pakokku
+  :my_name: ပခုက္ကူ
   :district: MMR009D004
 - :pcode: MMR009019
   :name: Yesagyo
+  :my_name: ရေစကြို
   :district: MMR009D004
 - :pcode: MMR009020
   :name: Myaing
+  :my_name: မြိုင်
   :district: MMR009D004
 - :pcode: MMR009021
   :name: Pauk
+  :my_name: ပေါက်
   :district: MMR009D004
 - :pcode: MMR009022
   :name: Seikphyu
+  :my_name: ဆိပ်ဖြူ
   :district: MMR009D004
 - :pcode: MMR009023
   :name: Gangaw
+  :my_name: ဂန့်ဂေါ
   :district: MMR009D005
 - :pcode: MMR009024
   :name: Tilin
+  :my_name: ထီးလင်း
   :district: MMR009D005
 - :pcode: MMR009025
   :name: Saw
+  :my_name: ဆော
   :district: MMR009D005
 - :pcode: MMR009025702
-  :name: 'Kyaukhtu '
+  :name: Kyaukhtu
+  :my_name: ကျောက်ထု
   :district: MMR009D005
 - :pcode: MMR010001
   :name: Aungmyaythazan
+  :my_name: အောင်မြေသာဇံ
   :district: MMR010D001
 - :pcode: MMR010002
   :name: Chanayethazan
+  :my_name: ချမ်းအေးသာဇံ
   :district: MMR010D001
 - :pcode: MMR010003
   :name: Mahaaungmyay
+  :my_name: မဟာအောင်မြေ
   :district: MMR010D001
 - :pcode: MMR010004
   :name: Chanmyathazi
+  :my_name: ချမ်းမြသာစည်
   :district: MMR010D001
 - :pcode: MMR010005
   :name: Pyigyitagon
+  :my_name: ပြည်ကြီးတံခွန်
   :district: MMR010D001
 - :pcode: MMR010006
   :name: Amarapura
+  :my_name: အမရပူရ
   :district: MMR010D001
 - :pcode: MMR010007
   :name: Patheingyi
+  :my_name: ပုသိမ်ကြီး
   :district: MMR010D001
 - :pcode: MMR010008
   :name: Pyinoolwin
+  :my_name: ပြင်ဦးလွင်
   :district: MMR010D002
 - :pcode: MMR010009
   :name: Madaya
+  :my_name: မတ္တရာ
   :district: MMR010D002
 - :pcode: MMR010010
   :name: Singu
+  :my_name: စဉ့်ကူး
   :district: MMR010D002
 - :pcode: MMR010011
   :name: Mogoke
+  :my_name: မိုးကုတ်
   :district: MMR010D002
 - :pcode: MMR010012
   :name: Thabeikkyin
+  :my_name: သပိတ်ကျင်း
   :district: MMR010D002
 - :pcode: MMR010012702
   :name: Takaung
+  :my_name: တကောင်း
   :district: MMR010D002
 - :pcode: MMR010013
   :name: Kyaukse
+  :my_name: ကျောက်ဆည်
   :district: MMR010D003
 - :pcode: MMR010014
   :name: Sintgaing
+  :my_name: စဉ့်ကိုင်
   :district: MMR010D003
 - :pcode: MMR010015
   :name: Myittha
+  :my_name: မြစ်သား
   :district: MMR010D003
 - :pcode: MMR010016
   :name: Tada-U
+  :my_name: တံတားဦး
   :district: MMR010D003
 - :pcode: MMR010017
   :name: Myingyan
+  :my_name: မြင်းခြံ
   :district: MMR010D004
 - :pcode: MMR010018
   :name: Taungtha
+  :my_name: တောင်သာ
   :district: MMR010D004
 - :pcode: MMR010019
   :name: Natogyi
+  :my_name: နွားထိုးကြီး
   :district: MMR010D004
 - :pcode: MMR010020
   :name: Kyaukpadaung
+  :my_name: ကျောက်ပန်းတောင်း
   :district: MMR010D004
 - :pcode: MMR010021
   :name: Ngazun
+  :my_name: ငါန်းဇွန်
   :district: MMR010D004
 - :pcode: MMR010022
   :name: Nyaung-U
+  :my_name: ညောင်ဦး
   :district: MMR010D005
 - :pcode: MMR010022703
   :name: Ngathayauk
+  :my_name: ငါ့သရောက်
   :district: MMR010D005
 - :pcode: MMR010023
   :name: Yamethin
+  :my_name: ရမည်းသင်း
   :district: MMR010D006
 - :pcode: MMR010024
   :name: Pyawbwe
+  :my_name: ပျော်ဘွယ်
   :district: MMR010D006
 - :pcode: MMR010028
   :name: Meiktila
+  :my_name: မိတ္ထီလာ
   :district: MMR010D007
 - :pcode: MMR010029
   :name: Mahlaing
+  :my_name: မလှိုင်
   :district: MMR010D007
 - :pcode: MMR010030
   :name: Thazi
+  :my_name: သာစည်
   :district: MMR010D007
 - :pcode: MMR010031
   :name: Wundwin
+  :my_name: ဝမ်းတွင်း
   :district: MMR010D007
 - :pcode: MMR011001
   :name: Mawlamyine
+  :my_name: မော်လမြိုင်
   :district: MMR011D001
 - :pcode: MMR011002
   :name: Kyaikmaraw
+  :my_name: ကျိုက်မရော
   :district: MMR011D001
 - :pcode: MMR011003
   :name: Chaungzon
+  :my_name: ချောင်းဆုံ
   :district: MMR011D001
 - :pcode: MMR011004
   :name: Thanbyuzayat
+  :my_name: သံဖြူဇရပ်
   :district: MMR011D001
 - :pcode: MMR011005
   :name: Mudon
+  :my_name: မုဒုံ
   :district: MMR011D001
 - :pcode: MMR011006
   :name: Ye
+  :my_name: ရေး
   :district: MMR011D001
 - :pcode: MMR011006702
   :name: Lamaing
+  :my_name: လမိုင်း
   :district: MMR011D001
 - :pcode: MMR011006703
   :name: Khawzar
+  :my_name: ခေါဇာ
   :district: MMR011D001
 - :pcode: MMR011007
   :name: Thaton
+  :my_name: သထုံ
   :district: MMR011D002
 - :pcode: MMR011008
   :name: Paung
+  :my_name: ပေါင်
   :district: MMR011D002
 - :pcode: MMR011009
   :name: Kyaikto
+  :my_name: ကျိုက်ထို
   :district: MMR011D002
 - :pcode: MMR011010
   :name: Bilin
+  :my_name: ဘီးလင်း
   :district: MMR011D002
 - :pcode: MMR012001
   :name: Sittwe
+  :my_name: စစ်တွေ
   :district: MMR012D001
 - :pcode: MMR012002
   :name: Ponnagyun
+  :my_name: ပုဏ္ဏားကျွန်း
   :district: MMR012D001
 - :pcode: MMR012007
   :name: Pauktaw
+  :my_name: ပေါက်တော
   :district: MMR012D001
 - :pcode: MMR012008
   :name: Rathedaung
+  :my_name: ရသေ့တောင်
   :district: MMR012D001
 - :pcode: MMR012003
   :name: Mrauk-U
+  :my_name: မြောက်ဦး
   :district: MMR012D005
 - :pcode: MMR012004
   :name: Kyauktaw
+  :my_name: ကျောက်တော်
   :district: MMR012D005
 - :pcode: MMR012005
   :name: Minbya
+  :my_name: မင်းပြား
   :district: MMR012D005
 - :pcode: MMR012006
   :name: Myebon
+  :my_name: မြေပုံ
   :district: MMR012D005
 - :pcode: MMR012009
   :name: Maungdaw
+  :my_name: မောင်တော
   :district: MMR012D002
 - :pcode: MMR012010
   :name: Buthidaung
+  :my_name: ဘူးသီးတောင်
   :district: MMR012D002
 - :pcode: MMR012009702
   :name: Taungpyoletwea
+  :my_name: တောင်ပြိုလက်ဝဲ
   :district: MMR012D002
 - :pcode: MMR012011
   :name: Kyaukpyu
+  :my_name: ကျောက်ဖြူ
   :district: MMR012D003
 - :pcode: MMR012012
   :name: Munaung
+  :my_name: မာန်အောင်
   :district: MMR012D003
 - :pcode: MMR012013
   :name: Ramree
+  :my_name: ရမ်းဗြဲ
   :district: MMR012D003
 - :pcode: MMR012014
   :name: Ann
+  :my_name: အမ်း
   :district: MMR012D003
 - :pcode: MMR012015
   :name: Thandwe
+  :my_name: သံတွဲ
   :district: MMR012D004
 - :pcode: MMR012016
   :name: Toungup
+  :my_name: တောင်ကုတ်
   :district: MMR012D004
 - :pcode: MMR012017
   :name: Gwa
+  :my_name: ဂွ
   :district: MMR012D004
 - :pcode: MMR012016702
-  :name: 'Ma-Ei '
+  :name: Ma-Ei
+  :my_name: မအီ
   :district: MMR012D004
 - :pcode: MMR012017702
   :name: Kyeintali
+  :my_name: ကျိန္တလီ
   :district: MMR012D004
 - :pcode: MMR013001
   :name: Insein
+  :my_name: အင်းစိန်
   :district: MMR013D001
 - :pcode: MMR013002
   :name: Mingaladon
+  :my_name: မင်္ဂလာဒုံ
   :district: MMR013D001
 - :pcode: MMR013003
   :name: Hmawbi
+  :my_name: မှော်ဘီ
   :district: MMR013D001
 - :pcode: MMR013004
   :name: Hlegu
+  :my_name: လှည်းကူး
   :district: MMR013D001
 - :pcode: MMR013005
   :name: Taikkyi
+  :my_name: တိုက်ကြီး
   :district: MMR013D001
 - :pcode: MMR013006
   :name: Htantabin
+  :my_name: ထန်းတပင်
   :district: MMR013D001
 - :pcode: MMR013007
   :name: Shwepyithar
+  :my_name: ရွှေပြည်သာ
   :district: MMR013D001
 - :pcode: MMR013008
   :name: Hlaingtharya
+  :my_name: လှိုင်သာယာ
   :district: MMR013D001
 - :pcode: MMR013009
   :name: Thingangyun
+  :my_name: သင်္ဃန်းကျွန်း
   :district: MMR013D002
 - :pcode: MMR013010
   :name: Yankin
+  :my_name: ရန်ကင်း
   :district: MMR013D002
 - :pcode: MMR013011
   :name: South Okkalapa
+  :my_name: တောင်ဥက္ကလာပ
   :district: MMR013D002
 - :pcode: MMR013012
   :name: North Okkalapa
+  :my_name: မြောက်ဥက္ကလာပ
   :district: MMR013D002
 - :pcode: MMR013013
   :name: Thaketa
+  :my_name: သာကေတ
   :district: MMR013D002
 - :pcode: MMR013014
   :name: Dawbon
+  :my_name: ဒေါပုံ
   :district: MMR013D002
 - :pcode: MMR013015
   :name: Tamwe
+  :my_name: တာမွေ
   :district: MMR013D002
 - :pcode: MMR013016
   :name: Pazundaung
+  :my_name: ပုဇွန်တောင်
   :district: MMR013D002
 - :pcode: MMR013017
   :name: Botahtaung
+  :my_name: ဗိုလ်တထောင်
   :district: MMR013D002
 - :pcode: MMR013018
   :name: Dagon Myothit (South)
+  :my_name: ဒဂုံမြို့သစ်(တောင်ပိုင်း)
   :district: MMR013D002
 - :pcode: MMR013019
   :name: Dagon Myothit (North)
+  :my_name: ဒဂုံမြို့သစ်(မြောက်ပိုင်း)
   :district: MMR013D002
 - :pcode: MMR013020
   :name: Dagon Myothit (East)
+  :my_name: ဒဂုံမြို့သစ် (အရှေ့ပိုင်း)
   :district: MMR013D002
 - :pcode: MMR013021
   :name: Dagon Myothit (Seikkan)
+  :my_name: ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)
   :district: MMR013D002
 - :pcode: MMR013022
   :name: Mingalartaungnyunt
+  :my_name: မင်္ဂလာတောင်ညွန့်
   :district: MMR013D002
 - :pcode: MMR013023
   :name: Thanlyin
+  :my_name: သန်လျင်
   :district: MMR013D003
 - :pcode: MMR013024
   :name: Kyauktan
+  :my_name: ကျောက်တန်း
   :district: MMR013D003
 - :pcode: MMR013025
   :name: Thongwa
+  :my_name: သုံးခွ
   :district: MMR013D003
 - :pcode: MMR013026
   :name: Kayan
+  :my_name: ခရမ်း
   :district: MMR013D003
 - :pcode: MMR013027
   :name: Twantay
+  :my_name: တွံတေး
   :district: MMR013D003
 - :pcode: MMR013028
   :name: Kawhmu
+  :my_name: ကော့မှူး
   :district: MMR013D003
 - :pcode: MMR013029
   :name: Kungyangon
+  :my_name: ကွမ်းခြံကုန်း
   :district: MMR013D003
 - :pcode: MMR013030
   :name: Dala
+  :my_name: "\tဒလ"
   :district: MMR013D003
 - :pcode: MMR013031
   :name: Seikgyikanaungto
+  :my_name: ခနောင်တို
   :district: MMR013D003
 - :pcode: MMR013032
   :name: Cocokyun
+  :my_name: ကိုကိုးကျွန်း
   :district: MMR013D003
 - :pcode: MMR013024702
   :name: Tadar
+  :my_name: တံတား
   :district: MMR013D003
 - :pcode: MMR013033
   :name: Kyauktada
+  :my_name: ကျောက်တံတား
   :district: MMR013D004
 - :pcode: MMR013034
   :name: Pabedan
+  :my_name: ပန်းဘဲတန်း
   :district: MMR013D004
 - :pcode: MMR013035
   :name: Lanmadaw
+  :my_name: လမ်းမတော်
   :district: MMR013D004
 - :pcode: MMR013036
   :name: Latha
+  :my_name: လသာ
   :district: MMR013D004
 - :pcode: MMR013037
   :name: Ahlone
+  :my_name: အလုံ
   :district: MMR013D004
 - :pcode: MMR013038
   :name: Kyeemyindaing
+  :my_name: ကြည့်မြင်တိုင်
   :district: MMR013D004
 - :pcode: MMR013039
   :name: Sanchaung
+  :my_name: စမ်းချောင်း
   :district: MMR013D004
 - :pcode: MMR013040
   :name: Hlaing
+  :my_name: လှိုင်
   :district: MMR013D004
 - :pcode: MMR013041
   :name: Kamaryut
+  :my_name: ကမာရွတ်
   :district: MMR013D004
 - :pcode: MMR013042
   :name: Mayangone
+  :my_name: မရမ်းကုန်း
   :district: MMR013D004
 - :pcode: MMR013043
   :name: Dagon
+  :my_name: ဒဂုံ
   :district: MMR013D004
 - :pcode: MMR013044
   :name: Bahan
+  :my_name: ဗဟန်း
   :district: MMR013D004
 - :pcode: MMR013045
   :name: Seikkan
+  :my_name: ဆိပ်ကမ်း
   :district: MMR013D004
 - :pcode: MMR014001
   :name: Taunggyi
+  :my_name: တောင်ကြီး
   :district: MMR014D001
 - :pcode: MMR014002
   :name: Nyaungshwe
+  :my_name: ညောင်ရွှေ
   :district: MMR014D001
 - :pcode: MMR014003
   :name: Hopong
+  :my_name: ဟိုပုံး
   :district: MMR014D001
 - :pcode: MMR014004
   :name: Hsihseng
+  :my_name: ဆီဆိုင်
   :district: MMR014D001
 - :pcode: MMR014005
   :name: Kalaw
+  :my_name: ကလော
   :district: MMR014D001
 - :pcode: MMR014006
   :name: Pindaya
+  :my_name: ပင်းတယ
   :district: MMR014D001
 - :pcode: MMR014007
   :name: Ywangan
+  :my_name: ရွာငံ
   :district: MMR014D001
 - :pcode: MMR014008
   :name: Lawksawk
+  :my_name: ရပ်စောက်
   :district: MMR014D001
 - :pcode: MMR014009
   :name: Pinlaung
+  :my_name: ပင်လောင်း
   :district: MMR014D001
 - :pcode: MMR014010
   :name: Pekon
+  :my_name: ဖယ်ခုံ
   :district: MMR014D001
 - :pcode: MMR014001703
   :name: Kyauktalonegyi
+  :my_name: ကျောက်တလုံး
   :district: MMR014D001
 - :pcode: MMR014008702
   :name: Intaw
+  :my_name: အင်တော
   :district: MMR014D001
 - :pcode: MMR014009702
-  :name: 'Naungtayar '
+  :name: Naungtayar
+  :my_name: နောင်တရား
   :district: MMR014D001
 - :pcode: MMR014011
   :name: Loilen
+  :my_name: လွိုင်လင်
   :district: MMR014D002
 - :pcode: MMR014012
   :name: Laihka
+  :my_name: လဲချား
   :district: MMR014D002
 - :pcode: MMR014013
   :name: Nansang
+  :my_name: နမ့်စန်
   :district: MMR014D002
 - :pcode: MMR014014
   :name: Kunhing
+  :my_name: ကွန်ဟိန်း
   :district: MMR014D002
 - :pcode: MMR014015
   :name: Kyethi
+  :my_name: ကျေးသီး
   :district: MMR014D002
 - :pcode: MMR014016
   :name: Mongkaing
+  :my_name: မိုင်းကိုင်
   :district: MMR014D002
 - :pcode: MMR014017
   :name: Monghsu
+  :my_name: မိုင်းရှူး
   :district: MMR014D002
 - :pcode: MMR014011702
   :name: Pinlon
+  :my_name: ပင်လုံ
   :district: MMR014D002
 - :pcode: MMR014013702
   :name: Kho Lam
+  :my_name: ခိုလမ်
   :district: MMR014D002
 - :pcode: MMR014014702
   :name: Kar Li
+  :my_name: ကာလိ
   :district: MMR014D002
 - :pcode: MMR014015702
-  :name: 'Mongnawng '
+  :name: Mongnawng
+  :my_name: မိုင်းနောင်
   :district: MMR014D002
 - :pcode: MMR014017702
   :name: Mongsan (Hmonesan)
+  :my_name: မိုင်းစံ (မုန်းဆန်း)
   :district: MMR014D002
 - :pcode: MMR014018
   :name: Langkho
+  :my_name: လင်းခေး
   :district: MMR014D003
 - :pcode: MMR014019
   :name: Mongnai
+  :my_name: မိုးနဲ
   :district: MMR014D003
 - :pcode: MMR014020
   :name: Mawkmai
+  :my_name: မောက်မယ်
   :district: MMR014D003
 - :pcode: MMR014021
   :name: Mongpan
+  :my_name: မိုင်းပန်
   :district: MMR014D003
 - :pcode: MMR014018702
   :name: Homein
+  :my_name: ဟိုမိန်း
   :district: MMR014D003
 - :pcode: MMR014019702
-  :name: 'Kengtawng '
+  :name: Kengtawng
+  :my_name: ကျိုင်းတောင်
   :district: MMR014D003
 - :pcode: MMR015001
   :name: Lashio
+  :my_name: လားရှိုး
   :district: MMR015D001
 - :pcode: MMR015002
   :name: Hseni
+  :my_name: သိန္နီ
   :district: MMR015D001
 - :pcode: MMR015003
   :name: Mongyai
+  :my_name: မိုင်းရယ်
   :district: MMR015D001
 - :pcode: MMR015004
   :name: Tangyan
+  :my_name: တန့်ယန်း
   :district: MMR015D001
 - :pcode: MMR015009
   :name: Muse
+  :my_name: မူဆယ်
   :district: MMR015D002
 - :pcode: MMR015010
   :name: Namhkan
+  :my_name: နမ့်ခမ်း
   :district: MMR015D002
 - :pcode: MMR015011
   :name: Kutkai
+  :my_name: ကွတ်ခိုင်
   :district: MMR015D002
 - :pcode: MMR015009702
   :name: Monekoe
+  :my_name: မုန်းကိုး
   :district: MMR015D002
 - :pcode: MMR015009703
   :name: Manhlyoe (Manhero)
+  :my_name: မန်ဟီးရိုး (မန်ဟျိုး)
   :district: MMR015D002
 - :pcode: MMR015009704
   :name: Pang Hseng (Kyu Koke)
+  :my_name: ပန်ဆိုင်း (ကြူကုတ်)
   :district: MMR015D002
 - :pcode: MMR015011702
   :name: Tarmoenye
+  :my_name: တာမိုးညဲ
   :district: MMR015D002
 - :pcode: MMR015012
   :name: Kyaukme
+  :my_name: ကျောက်မဲ
   :district: MMR015D003
 - :pcode: MMR015013
   :name: Nawnghkio
+  :my_name: နောင်ချို
   :district: MMR015D003
 - :pcode: MMR015014
   :name: Hsipaw
+  :my_name: သီပေါ
   :district: MMR015D003
 - :pcode: MMR015015
   :name: Namtu
+  :my_name: နမ္မတူ
   :district: MMR015D003
 - :pcode: MMR015016
   :name: Namhsan
+  :my_name: နမ့်ဆန်
   :district: MMR015D003
 - :pcode: MMR015017
   :name: Mongmit
+  :my_name: မိုးမိတ်
   :district: MMR015D003
 - :pcode: MMR015018
   :name: Mabein
+  :my_name: မဘိမ်း
   :district: MMR015D003
 - :pcode: MMR015019
   :name: Manton
+  :my_name: မန်တုံ
   :district: MMR015D003
 - :pcode: MMR015012702
   :name: Mongngawt
+  :my_name: မိုင်းငေါ့
   :district: MMR015D003
 - :pcode: MMR015012703
   :name: Monglon
+  :my_name: မိုင်းလုံ
   :district: MMR015D003
 - :pcode: MMR015020
   :name: Kunlong
+  :my_name: ကွမ်းလုံ
   :district: MMR015D004
 - :pcode: MMR015022
   :name: Laukkaing
+  :my_name: လောက်ကိုင်
   :district: MMR015D005
 - :pcode: MMR015023
   :name: Konkyan
+  :my_name: ကုန်းကြမ်း
   :district: MMR015D005
 - :pcode: MMR015022702
-  :name: 'Chinshwehaw '
+  :name: Chinshwehaw
+  :my_name: ချင်းရွှေဟော်
   :district: MMR015D005
 - :pcode: MMR015023702
   :name: Maw Hteik
+  :my_name: မော်ထိုက်
   :district: MMR015D005
 - :pcode: MMR015021
   :name: Hopang
+  :my_name: ဟိုပန်
   :district: MMR015D006
 - :pcode: MMR015008
   :name: Mongmao
+  :my_name: မိုင်းမော
   :district: MMR015D006
 - :pcode: MMR015007
   :name: Pangwaun
+  :my_name: ပန်ဝိုင်
   :district: MMR015D006
 - :pcode: MMR015021703
   :name: Pan Lon
+  :my_name: ပန်လုံ
   :district: MMR015D006
 - :pcode: MMR015024
   :name: Matman
+  :my_name: မက်မန်း
   :district: MMR015D007
 - :pcode: MMR015005
   :name: Pangsang
+  :my_name: ပန်ဆန်း (ပန်ခမ်း)
   :district: MMR015D007
 - :pcode: MMR015006
   :name: Narphan
+  :my_name: နားဖန်
   :district: MMR015D007
 - :pcode: MMR015005702
   :name: Man Kan
+  :my_name: မန်ကန်
   :district: MMR015D007
 - :pcode: MMR016001
   :name: Kengtung
+  :my_name: ကျိုင်းတုံ
   :district: MMR016D001
 - :pcode: MMR016002
   :name: Mongkhet
+  :my_name: မိုင်းခတ်
   :district: MMR016D001
 - :pcode: MMR016003
   :name: Mongyang
+  :my_name: မိုင်းယန်း
   :district: MMR016D001
 - :pcode: MMR016005
   :name: Mongla
+  :my_name: မိုင်းလား
   :district: MMR016D001
 - :pcode: MMR016003702
   :name: Mongpauk
+  :my_name: မိုင်းပေါက်
   :district: MMR016D001
 - :pcode: MMR016006
   :name: Monghsat
+  :my_name: မိုင်းဆတ်
   :district: MMR016D002
 - :pcode: MMR016007
   :name: Mongping
+  :my_name: မိုင်းပျဉ်း
   :district: MMR016D002
 - :pcode: MMR016008
   :name: Mongton
+  :my_name: မိုင်းတုံ
   :district: MMR016D002
 - :pcode: MMR016006702
   :name: Mongkhoke
+  :my_name: မိုင်းခုတ်
   :district: MMR016D002
 - :pcode: MMR016007702
   :name: Tontar
+  :my_name: တုံတာ
   :district: MMR016D002
 - :pcode: MMR016008702
   :name: Ponparkyin
+  :my_name: ပုံပါကျင်
   :district: MMR016D002
 - :pcode: MMR016008703
   :name: Hmone Hta
+  :my_name: မုံးထ
   :district: MMR016D002
 - :pcode: MMR016009
   :name: Tachileik
+  :my_name: တာချီလိတ်
   :district: MMR016D003
 - :pcode: MMR016009703
   :name: Tarlay
+  :my_name: တာလေ
   :district: MMR016D003
 - :pcode: MMR016009702
   :name: Kenglat
+  :my_name: ကျိုင်းလပ်
   :district: MMR016D003
 - :pcode: MMR016010
   :name: Monghpyak
+  :my_name: မိုင်းဖြတ်
   :district: MMR016D004
 - :pcode: MMR016011
   :name: Mongyawng
+  :my_name: မိုင်းယောင်း
   :district: MMR016D004
 - :pcode: MMR016011702
   :name: Mongyu
+  :my_name: မိုင်းယု
   :district: MMR016D004
 - :pcode: MMR017002
   :name: Kangyidaunt
+  :my_name: ကန်ကြီးထောင့်
   :district: MMR017D001
 - :pcode: MMR017007
   :name: Kyaunggon
+  :my_name: ကျောင်းကုန်း
   :district: MMR017D001
 - :pcode: MMR017005
   :name: Kyonpyaw
+  :my_name: ကျုံပျော်
   :district: MMR017D001
 - :pcode: MMR017004
   :name: Ngapudaw
+  :my_name: ငပုတော
   :district: MMR017D001
 - :pcode: MMR017001
   :name: Pathein
+  :my_name: ပုသိမ်
   :district: MMR017D001
 - :pcode: MMR017006
   :name: Yegyi
+  :my_name: ရေကြည်
   :district: MMR017D001
 - :pcode: MMR017003
   :name: Thabaung
+  :my_name: သာပေါင်း
   :district: MMR017D001
 - :pcode: MMR017004702
   :name: Ngayokekaung
+  :my_name: ငရုတ်ကောင်း
   :district: MMR017D001
 - :pcode: MMR017004703
   :name: Hainggyikyun
+  :my_name: ဟိုင်းကြီးကျွန်း
   :district: MMR017D001
 - :pcode: MMR017001702
   :name: Shwethaungyan
+  :my_name: ရွှေသောင်ယံ
   :district: MMR017D001
 - :pcode: MMR017001703
   :name: Ngwesaung
+  :my_name: ငွေဆောင်
   :district: MMR017D001
 - :pcode: MMR017006702
   :name: Ngathaingchaung
+  :my_name: ငသိုင်းချောင်း
   :district: MMR017D001
 - :pcode: MMR017025
   :name: Kyaiklat
+  :my_name: ကျိုက်လတ်
   :district: MMR017D006
 - :pcode: MMR017026
   :name: Dedaye
+  :my_name: ဒေးဒရဲ
   :district: MMR017D006
 - :pcode: MMR017023
   :name: Pyapon
+  :my_name: ဖျာပုံ
   :district: MMR017D006
 - :pcode: MMR017024
   :name: Bogale
+  :my_name: ဘိုကလေး
   :district: MMR017D006
 - :pcode: MMR017023702
   :name: Ahmar
+  :my_name: အမာ
   :district: MMR017D006
 - :pcode: MMR017021
   :name: Nyaungdon
+  :my_name: ညောင်တုန်း
   :district: MMR017D005
 - :pcode: MMR017022
   :name: Danubyu
+  :my_name: ဓနုဖြူ
   :district: MMR017D005
 - :pcode: MMR017020
   :name: Pantanaw
+  :my_name: ပန်းတနော်
   :district: MMR017D005
 - :pcode: MMR017019
   :name: Maubin
+  :my_name: မအူပင်
   :district: MMR017D005
 - :pcode: MMR017014
   :name: Myaungmya
+  :my_name: မြောင်းမြ
   :district: MMR017D003
 - :pcode: MMR017017
   :name: Wakema
+  :my_name: ဝါးခယ်မ
   :district: MMR017D003
 - :pcode: MMR017015
   :name: Einme
+  :my_name: အိမ်မဲ
   :district: MMR017D003
 - :pcode: MMR017018
   :name: Mawlamyinegyun
+  :my_name: မော်လမြိုင်ကျွန်း
   :district: MMR017D004
 - :pcode: MMR017016
   :name: Labutta
+  :my_name: လပွတ္တာ
   :district: MMR017D004
 - :pcode: MMR017016702
   :name: Pyinsalu
+  :my_name: ပြင်စလူ
   :district: MMR017D004
 - :pcode: MMR017012
   :name: Kyangin
+  :my_name: ကြံခင်း
   :district: MMR017D002
 - :pcode: MMR017009
   :name: Zalun
+  :my_name: ဇလွန်
   :district: MMR017D002
 - :pcode: MMR017011
   :name: Myanaung
+  :my_name: မြန်အောင်
   :district: MMR017D002
 - :pcode: MMR017010
   :name: Lemyethna
+  :my_name: လေးမျက်နှာ
   :district: MMR017D002
 - :pcode: MMR017008
   :name: Hinthada
+  :my_name: ဟင်္သာတ
   :district: MMR017D002
 - :pcode: MMR017013
   :name: Ingapu
+  :my_name: အင်္ဂပူ
   :district: MMR017D002
 - :pcode: MMR018003
   :name: Tatkon
+  :my_name: တပ်ကုန်း
   :district: MMR018D001
 - :pcode: MMR018001
   :name: Zay Yar Thi Ri
+  :my_name: ဇေယျာသီရိ
   :district: MMR018D001
 - :pcode: MMR018008
   :name: Oke Ta Ra Thi Ri
+  :my_name: ဥတ္တရသီရိ
   :district: MMR018D001
 - :pcode: MMR018005
   :name: Poke Ba Thi Ri
+  :my_name: ပုဗ္ဗသီရိ
   :district: MMR018D001
 - :pcode: MMR018006
   :name: Pyinmana
+  :my_name: ပျဉ်းမနား
   :district: MMR018D002
 - :pcode: MMR018007
   :name: Lewe
+  :my_name: လယ်ဝေး
   :district: MMR018D002
 - :pcode: MMR018002
   :name: Za Bu Thi Ri
+  :my_name: ဇမ္ဗူသီရိ
   :district: MMR018D002
 - :pcode: MMR018004
-  :name: 'Det Khi Na Thi Ri '
+  :name: Det Khi Na Thi Ri
+  :my_name: ဒက္ခိဏသီရိ
   :district: MMR018D002
